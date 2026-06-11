@@ -1,0 +1,8 @@
+{
+  "name": "同梱譜面",
+  "symbol": "dk-",
+  "data_url": "score.json",
+  "level_order": [
+    "nmk", "Sakamiya"
+  ]
+}
