@@ -7,7 +7,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "01104d7fe437edd2cffb1509f43e1a4e",
@@ -17,7 +19,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "062680850c37aa5e39a74e7660af7df7",
@@ -27,7 +31,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "a3d7ed601c6084fa8219392d057a6ebc",
@@ -37,7 +43,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu ntoes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 4
   },
   {
     "md5": "79ba99805695bdbdcc9c0639861b7691",
@@ -47,7 +55,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 39,
+    "chart_difficulty": 3
   },
   {
     "md5": "bb20874801263c8e7b38d2294ec51382",
@@ -57,7 +67,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 26,
+    "chart_difficulty": 2
   },
   {
     "md5": "f41a990d8137150f510e74468d9f2244",
@@ -67,7 +79,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "e97e7a48c09a48628cba2f0bcce97354",
@@ -77,7 +91,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "599e2d6a8b6cbb02c5c301f66917556a",
@@ -87,7 +103,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "3ab3bd723fcb67e54f724c3cd86ae817",
@@ -97,7 +115,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "19df27b508da826d539689dee7344a94",
@@ -107,7 +127,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "a0152eb7b4110305967f6b38bcfc2e94",
@@ -117,7 +139,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "7964104ca49351d29c6382009a83d983",
@@ -127,7 +151,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "9e84f048b4517e1b0ad50e739ae04f3f",
@@ -137,7 +163,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "323ad2063196ac85eeb788e57b50a6ca",
@@ -147,7 +175,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "c86923afc764b887b6e8c649146a7d98",
@@ -157,7 +187,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "aebfcff33f9777ce806d490320be8c79",
@@ -167,7 +199,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "59f75a50a029dc0695e4d9beac9873a6",
@@ -177,7 +211,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "e89377fac7e63fc95e9dec1181c32ade",
@@ -187,7 +223,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "c0314ed298a57ce80d6120d299a200d1",
@@ -197,7 +235,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "dab71e4d8028aa240fb8316f99ba3790",
@@ -207,7 +247,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "453ad933e398f4022cd97ced9d1a3afd",
@@ -217,7 +259,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "6399378a078788cf24a26c383e010b3c",
@@ -227,7 +271,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "91aeccdfe6aa4507e90fb5515edf1fcc",
@@ -237,7 +283,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "daa62c45698003d63784e0022d062fc4",
@@ -247,7 +295,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "bb1f70d59fd5027723b8d6e25f0fe8d3",
@@ -257,7 +307,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "7f579ed42131ea0f960f8ccbca5c6b84",
@@ -267,7 +319,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "3683acff5afee41355b5e8283be44a33",
@@ -277,7 +331,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "fc8f0bba10b7b42418cf0fda01eb2008",
@@ -287,7 +343,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "7c1fa6473d7839b175f4aaaa41c27843",
@@ -297,7 +355,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "42ae933f84e1f29bf7a12f6f04c4be34",
@@ -307,7 +367,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "289e3298016255adb4a065fdccc1f1c1",
@@ -317,7 +379,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "99a1cccf1beafc47268555e138e6f4af",
@@ -327,7 +391,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "74b62e4ae1878268d33c5e328243a1dd",
@@ -337,7 +403,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "252bcf5a72f440bcedd74e65350b1ca2",
@@ -347,7 +415,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "617d0802bd2d6ba5a5652c5aa04caa51",
@@ -357,7 +427,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "0e80430101f31cdd4c89a77a0c2e6e48",
@@ -367,7 +439,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "42a4b7efc878af09e76a8360a1df79d3",
@@ -377,7 +451,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "5a10b038203791d9565e318e9ef767ca",
@@ -387,7 +463,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "1771d143df10505ee30f8907cd15cee4",
@@ -397,7 +475,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 50,
+    "chart_difficulty": 5
   },
   {
     "md5": "d138702ee4503b12d8fb4e23e6203fcb",
@@ -407,7 +487,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru ntoes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "b869b18d15234b3169564eda927d76c0",
@@ -417,7 +499,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "210ec3ab5b603bdc3d4677caed46ea0a",
@@ -427,7 +511,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e4818184e31de81c393184f4636a9ccc",
@@ -437,7 +523,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "5bdf51d5a207f74f290d020965c8c3c4",
@@ -447,7 +535,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "e1210d6b66db49288dae40c852aea6d5",
@@ -457,7 +547,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "4e92143c586a85c7176878feb1f2fe7a",
@@ -467,7 +559,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "1ace23f0af5a53d1d9fdbe1c6a521661",
@@ -477,7 +571,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "bcb25c89f7d006eec25a4f8436f65218",
@@ -487,7 +583,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:ELIGOS",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "dc1ac1d67463892d957b1d410773557f",
@@ -497,7 +595,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:ELIGOS",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 19,
+    "chart_difficulty": 5
   },
   {
     "md5": "950e0e89160c5e2385337d0a1c94391b",
@@ -507,7 +607,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "9bf5831516d52e85c3d544bb5ff89b78",
@@ -517,7 +619,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "471fdc10770fec4e6db0a91bc155d916",
@@ -527,7 +631,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "382ab1016f1865a09bf6cbb5d8cb8891",
@@ -537,7 +643,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "cd50e9c08d04a7717c18d65011dd0d19",
@@ -547,7 +655,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "4ffb9ce44eca574720d5ef76f93257a0",
@@ -557,7 +667,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "b7170ec64a711966efba412320f1d057",
@@ -567,7 +679,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "41b13fce004dd4c10a2359e9443676df",
@@ -577,7 +691,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "6f06846a548197aacee7fdcb4082d565",
@@ -587,7 +703,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "d32e5481a8c6cd7500bc3cc637e1a914",
@@ -597,7 +715,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 4
   },
   {
     "md5": "9a10b283f5a572266a5a4469346b9fd7",
@@ -607,7 +727,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 1
   },
   {
     "md5": "4384713f6c42a21b6a9db09298a324d8",
@@ -617,7 +739,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "9b6f477d3939f41f782bd8cb37af291e",
@@ -627,7 +751,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "2579d989fab6cc3b3bebb367de4792aa",
@@ -637,7 +763,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 32,
+    "chart_difficulty": 2
   },
   {
     "md5": "04f5bb36eb3adc01cc05de8ee8350101",
@@ -647,7 +775,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "38e2fcf8ecc14ddcd37aa2ed4814d2a7",
@@ -657,7 +787,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "9b2a838554ed0db924cf59068824f77d",
@@ -667,7 +799,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "3b06d0d1d3343dccf0f717f05c572974",
@@ -677,7 +811,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "127e1a89f70928f1c9b477e887173936",
@@ -687,7 +823,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "3df438678a7716782bee8150ab8d238c",
@@ -697,7 +835,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
@@ -707,7 +847,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "cbb5f9fcea29de55b545690f44948310",
@@ -717,7 +859,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "9688b2a66f84fceab3d692feca588c9a",
@@ -727,7 +871,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 4
   },
   {
     "md5": "3e2097c0b6a1c9ddfbe9eb3b642d2342",
@@ -737,7 +883,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 37,
+    "chart_difficulty": 3
   },
   {
     "md5": "c66eb521b6e946087a4362155a1823fc",
@@ -747,7 +895,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 2
   },
   {
     "md5": "44da55b88539836e5f114c0f99376c36",
@@ -757,7 +907,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "18ab7004af560f2311066c065af501c3",
@@ -767,7 +919,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv ntoes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "e2144c8d9b52e2d318def56f5a818e81",
@@ -777,7 +931,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "2c6cc2fc0b63ccbdc2198dc7426cc125",
@@ -787,7 +943,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "450eb6fb72186b8f9d476c40e3031d3e",
@@ -797,7 +955,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "5453c798eac34effec348527b801c3ae",
@@ -807,7 +967,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "7fed510f07739c326aac1e6bc8c2bcbd",
@@ -817,7 +979,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "afd5db09ff5fbf4c7009f6e4939a7ef1",
@@ -827,7 +991,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "063428fb3584199d4a779d0b4a76c44e",
@@ -837,7 +1003,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "032953a7340a7c8ac7aee716c52180c9",
@@ -847,7 +1015,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "8e6fedc7d22a863b9cbcee98cc16e7d7",
@@ -857,7 +1027,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "d3d5d8065d6f95ea98fc2e98f72089e4",
@@ -867,7 +1039,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "9958d1777523a565fa8ee4df35e94cd0",
@@ -877,7 +1051,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "dfe14086df679fcc72bb2cca2982a3a4",
@@ -887,7 +1063,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "11053705bab081e19c0e40184170f5b7",
@@ -897,7 +1075,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "63f5cfbd55aed40cff0fe856735edc6b",
@@ -907,7 +1087,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "fc4e4483a5bffc018eb7215379b824d2",
@@ -917,7 +1099,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "48c1436ba5fc22acb5e79523019aff22",
@@ -927,7 +1111,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "c92c96e406e2f19ab4f5164a3ad895d2",
@@ -937,7 +1123,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "776d54e3944c8638afb139870ba83eb9",
@@ -947,7 +1135,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "985ce81581296ff6e7dfcc7a6b677530",
@@ -957,7 +1147,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "d635abcbf00b403e23471bce851007e3",
@@ -967,7 +1159,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "757c191466280a8860182bf230dde6bb",
@@ -977,7 +1171,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 41,
+    "chart_difficulty": 3
   },
   {
     "md5": "f62fffc71c0127a9ad64fc036f402848",
@@ -987,7 +1183,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "9f7158eeafe2043ec28b6e8404498b64",
@@ -997,7 +1195,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 30,
+    "chart_difficulty": 2
   },
   {
     "md5": "3815c9191dbb42a0b92dc67f4093753f",
@@ -1007,7 +1207,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "3b822b4b79b1f18b3da69281d5348cac",
@@ -1017,7 +1219,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "562308fb53613a8baf25784394409709",
@@ -1027,7 +1231,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "9e68e354c848608a73f6b4a089b1d5b2",
@@ -1037,7 +1243,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "176eda616ae9d87692895cf30a7631d4",
@@ -1047,7 +1255,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "55adbcbb97ad332fb135434a7cd08637",
@@ -1057,7 +1267,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "addb36647dad8cc8e3e1b33846467fdf",
@@ -1067,7 +1279,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e4241831e9d8c7312ca593e63fb7eed1",
@@ -1077,7 +1291,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "e0e380bc80a8c1ff305330b82b5132fc",
@@ -1087,7 +1303,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "4d85e8d4e8af26091e0257fde0699897",
@@ -1097,7 +1315,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "51e9f18ff0951d7be451804c55127d92",
@@ -1107,7 +1327,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "c7eb8d96ffdb1978a44f636061f24fe9",
@@ -1117,7 +1339,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "74619d8216f1efcc9aaf040ad2ebd4f3",
@@ -1127,7 +1351,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "bc905963049d627acf4619b136006783",
@@ -1137,7 +1363,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "ea06683848f89332ae7a6ef38345178f",
@@ -1147,7 +1375,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "eba48f0f1f8bc57b1c6a586fd7e4cdfd",
@@ -1157,7 +1387,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "8c0c8f4afe6865c77abbdee96c02ed1e",
@@ -1167,7 +1399,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:7stan",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "ae1767941fe10a2dcfb20f185fb4e4bc",
@@ -1177,7 +1411,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "de1a3484d11c8323d610e400ab929374",
@@ -1187,7 +1423,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "8338bc212516df300a2c35a3c70381e0",
@@ -1197,7 +1435,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "f07710d3ceb9d2a8bb0cdaee1d7da1f2",
@@ -1207,7 +1447,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "774c555b16bb221cb8c13b50bff966a2",
@@ -1217,7 +1459,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "70599e5f72e8321789fa259885a4bf63",
@@ -1227,7 +1471,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "801eb5b642a4e62be7b61d168cedf6bf",
@@ -1237,7 +1483,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "fcc21501e2adbe46e09d7a4e70fd04ce",
@@ -1247,7 +1495,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "314fc93a4fac037204afee28ccac26ec",
@@ -1257,7 +1507,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "6d987d7fe60b09845e2a6f52a1ea828a",
@@ -1267,7 +1519,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "0283325226878bf68da1823991831049",
@@ -1277,7 +1531,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "c0da1d51de133a6d1d2f8b5dd43ed161",
@@ -1287,7 +1543,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "d9623d8672c96362d4fd657da0d428f1",
@@ -1297,7 +1555,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 7
   },
   {
     "md5": "2801ffae73a6177fe2231272bef7fa1e",
@@ -1307,7 +1567,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "a00c1d829cc497733bf410792e0faa78",
@@ -1317,7 +1579,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "87751f1c0be7d55ea06f2d645aafc7a8",
@@ -1327,7 +1591,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "2db2aec87d4c506c83b232bc39e89f1f",
@@ -1337,7 +1603,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "baa4f42eeee1d8078dbf7fc50756eee3",
@@ -1347,7 +1615,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "3fde35f8d07742a01b337f8baf8bd741",
@@ -1357,7 +1627,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "2353131fb7c676739c193b5f0e1b1d9f",
@@ -1367,7 +1639,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "8e54d3489bdbd3b7cb81aafc2038f01d",
@@ -1377,7 +1651,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "7151d2df881667d15afe8f2acd5bdf8d",
@@ -1387,7 +1663,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "de3adb03672b5274d91908dd3aa912dc",
@@ -1397,7 +1675,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "4a2718da4339c59705e64cff35bd2509",
@@ -1407,7 +1687,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "a8a84b1033f0fffa04c6760448bd25f7",
@@ -1417,7 +1699,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "7a9e1a818cb07c49ef12f220f3facf95",
@@ -1427,7 +1711,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "63d3238dfad9974aa02cca19d7077577",
@@ -1437,7 +1723,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "c2537e7758d63dd7e43660306d6e51b3",
@@ -1447,7 +1735,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "540f4c461adfd0c4ca4b96907ce31ae7",
@@ -1457,7 +1747,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f82b514691f958b3caa09755fb3fe461",
@@ -1467,7 +1759,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "337b438f8cedde5385e89d17c60c69eb",
@@ -1477,7 +1771,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "cc1b6610e645d6e30cee5f108cf73b43",
@@ -1487,7 +1783,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら note:REX",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "549ec0735b3a463dbc308399bef83cf3",
@@ -1497,7 +1795,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "4e9e2376f57290e0ef4d453c0c691b91",
@@ -1507,7 +1807,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら notes: BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 22,
+    "chart_difficulty": 5
   },
   {
     "md5": "1ecc5e88b5495897a70fed6e9c0a3c86",
@@ -1517,7 +1819,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f69ed112f372d793c3de929fd69bf968",
@@ -1527,7 +1831,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "ec186de8874fe26a278cb199f5a063ad",
@@ -1537,7 +1843,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "da3a403ddcf1450764faacb0b8ed074f",
@@ -1547,7 +1855,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "cf7d570aef0147388150c436d36d93a1",
@@ -1557,7 +1867,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "bd87c82836f147072fcf5cd4f02c28d2",
@@ -1567,7 +1879,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "b7b5feee6800ccaa72bfc853e07f8c45",
@@ -1577,7 +1891,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "ec854f702767690dced0afaafbbda002",
@@ -1587,7 +1903,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "54c36c65e4648334f38f5e238ada7842",
@@ -1597,7 +1915,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "17c80b64432022d320b8d2a5bba8ec26",
@@ -1607,7 +1927,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "c586a7b2ce60113612dcc58dbecd1476",
@@ -1617,7 +1939,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "90f9b860616b3af567da4a93b83bce43",
@@ -1627,7 +1951,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "fe8d34283d4888294a8086f5e81c5d67",
@@ -1637,7 +1963,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "1fa6eea7b87cc19d13d1f4cc91098945",
@@ -1647,7 +1975,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "995bf277bda8aa65c4dad0720f0abb47",
@@ -1657,7 +1987,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "c6a71d3a6d1311146aeff1b371c8fc19",
@@ -1667,7 +1999,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "7444122f93f15bfc1a09b2b2692f5499",
@@ -1677,7 +2011,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "74a24bcfc6bf755e0bb4d842d702c6ad",
@@ -1687,7 +2023,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 32,
+    "chart_difficulty": 2
   },
   {
     "md5": "eb451f48f976dfc87cb88486a873a742",
@@ -1697,7 +2035,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 42,
+    "chart_difficulty": 3
   },
   {
     "md5": "fffd5534dcc1581acbc9892e98bb71a6",
@@ -1707,7 +2047,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 46,
+    "chart_difficulty": 4
   },
   {
     "md5": "86a715eda1ee9fbd365a405c22486340",
@@ -1717,7 +2059,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 5
   },
   {
     "md5": "f87cf34196cafefb99cd9c4208461edb",
@@ -1727,7 +2071,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "edf3b1ea6f50db56f0e60e6424d6be06",
@@ -1737,7 +2083,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "5a3d872dcaae9b644d0cd06388c7124a",
@@ -1747,7 +2095,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura ntoes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "24fcc88f1fa52b8e4b1fb7ed6b5cc6b3",
@@ -1757,7 +2107,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "86afd1012c06c1a3d28de20eeff6d067",
@@ -1767,7 +2119,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "7a1e7e9ae90fd61256291072aabfe54c",
@@ -1777,7 +2131,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "4bb141a9fa6fcee63f8814e686310d84",
@@ -1787,7 +2143,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "022ed61d7efcf1f0fcd2931b81703b4a",
@@ -1797,7 +2155,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "fbd038dac2047b6f277a64c605f0ca57",
@@ -1807,7 +2167,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 18,
+    "chart_difficulty": 5
   },
   {
     "md5": "6fbd54e3a1e0b948365b825ffc7772e6",
@@ -1817,7 +2179,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "8ce609e941493ae97f24644b43dc6ecc",
@@ -1827,7 +2191,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "9a20aabea034ae0f9b21610e118c17d7",
@@ -1837,7 +2203,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "f656bb2df75a4653efbf0c7b6b8e6ffb",
@@ -1847,7 +2215,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6259cb8aaacae2964d0d96aff14ae981",
@@ -1857,7 +2227,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "2ddb97f3e8b1441dfd1e0fab275530e4",
@@ -1867,7 +2239,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "ddde92e215acb2abdce3d0ede1acc799",
@@ -1877,7 +2251,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 17,
+    "chart_difficulty": 5
   },
   {
     "md5": "dfcddc1c7765368318028ec5380e1641",
@@ -1887,7 +2263,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "87bc15c0266e521335589840ff374bd0",
@@ -1897,7 +2275,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "efed320d3a20c4faf6d805c99bf3b940",
@@ -1907,7 +2287,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "be663f70f5be4e005b55c9ea6b15cdf1",
@@ -1917,7 +2299,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "7608b1665a8692ab8ea1c173d7ad4baa",
@@ -1927,7 +2311,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "4c7fedd1e66de051730e427006099330",
@@ -1937,7 +2323,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "da2104f5adc17b4952289828f03b8cc8",
@@ -1947,7 +2335,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "68831a825b4ec81fc4c52d65dbfb8087",
@@ -1957,7 +2347,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "2e62d8701d490714ca64b68a2bdbd9f8",
@@ -1967,7 +2359,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 4
   },
   {
     "md5": "d57a9fcc7b33242545516ef49fc9de4c",
@@ -1977,7 +2371,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "7bbb8b02cd464d9532c64ad95b4ae8f0",
@@ -1987,7 +2383,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "38b732363612cbc878cebca73d8226c4",
@@ -1997,7 +2395,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "c2423b9cc31c8fff1370b976c11e00b1",
@@ -2007,7 +2407,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "f4fe304d5caeacfc52e9dd258600b5f6",
@@ -2017,7 +2419,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "eac28d2fd978c7a3afdf24756ae21ab7",
@@ -2027,7 +2431,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "acb96f0ab685a45b7cbe845544fff8cb",
@@ -2037,7 +2443,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "1786e132ed051d9eebf264430b7b9aaf",
@@ -2047,7 +2455,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "1f3acd46684282e291023437d3ab6d81",
@@ -2057,7 +2467,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "cb3dc8413fe7cc8e29d8c42e4cac78b6",
@@ -2067,7 +2479,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "36c723d747049227d0dc18ef7c1080e0",
@@ -2077,7 +2491,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "60af6410e572521626238b8833ebc459",
@@ -2087,7 +2503,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "f8a858b8df5367218dc96a60663a584e",
@@ -2097,7 +2515,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "d55fcd527f03beb72b6b8ebdf2440047",
@@ -2107,7 +2527,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "2d02dad473d813a0602a6cd85d85c9b5",
@@ -2117,7 +2539,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "76e31b330b2d19edc259bc76e80e5745",
@@ -2127,7 +2551,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "ed86ed68b82f743afc51ce48160c37ae",
@@ -2137,7 +2563,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 45,
+    "chart_difficulty": 4
   },
   {
     "md5": "b6366ff0b227fa928e5b12d9539b8e49",
@@ -2147,7 +2575,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 40,
+    "chart_difficulty": 3
   },
   {
     "md5": "6b43898ad4d397b3d82ff2ae778a9cde",
@@ -2157,7 +2587,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "03677286370d20f90a0c0ba479976d54",
@@ -2167,7 +2599,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 5
   },
   {
     "md5": "21076f4cf1738e452f55ea18fe2e88c2",
@@ -2177,7 +2611,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6705544b13fcf324095963e6d0bf5ab4",
@@ -2187,7 +2623,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "cdf8fdb03138f15cef54a5f6666931e2",
@@ -2197,7 +2635,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "3b6b8c056e335690acc4d637f83c6113",
@@ -2207,7 +2647,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "92a284aa33c3b68ed9e366668fe5b635",
@@ -2217,7 +2659,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "b773fcfcbcdc324eec3944226dd37f85",
@@ -2227,7 +2671,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "6a6c493cd1ea5260500b314211a9913e",
@@ -2237,7 +2683,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "15b9da504bab6ee1cf7122fe8e36a08e",
@@ -2247,7 +2695,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "c10b45c6731a15d209a1b1b2d88a0335",
@@ -2257,7 +2707,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "4a929dcfe72abf9acbce3b6c2a1a66be",
@@ -2267,7 +2719,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "7f23ee948542609d9a150937bac9cf81",
@@ -2277,7 +2731,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "3769518692a7a8acea1caa9b9aed756b",
@@ -2287,7 +2743,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "6927a4befffea387261819052c9873c8",
@@ -2297,7 +2755,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 1
   },
   {
     "md5": "1da256cf1b028eb226edd7f40eca0690",
@@ -2307,7 +2767,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "c5cd1e73e6a9d03ad4f8f0935b1a79c3",
@@ -2317,7 +2779,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "9574bb68689f1d2bb33cfb79613a609b",
@@ -2327,7 +2791,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 28,
+    "chart_difficulty": 2
   },
   {
     "md5": "184a389dd2f44933a089c32f7e874ee3",
@@ -2337,7 +2803,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "17bf85d0828702b84f770538f8592a2d",
@@ -2347,7 +2815,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "230845b3cdd775a0f40c5bf98c87c474",
@@ -2357,7 +2827,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "4fe227a47fe9090ea3d9be13d7e8ba0f",
@@ -2367,7 +2839,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "d1792df50d982d90491c67c22528da8b",
@@ -2377,7 +2851,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "6bf6a2f71a1ff91ca683a2ee29079913",
@@ -2387,7 +2863,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 2
   },
   {
     "md5": "312e6f34f250cdbc1b1895946c80c9b4",
@@ -2397,7 +2875,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 3
   },
   {
     "md5": "b779668ca821a049cc863ba726d30e92",
@@ -2407,7 +2887,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 4
   },
   {
     "md5": "46eec1be2ed204b507a205c86899d9bc",
@@ -2417,7 +2899,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "d6992c5eedc7555c00b5ce6dfa27e0fb",
@@ -2427,7 +2911,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "9ee5524e4ed8a3e7033b4de1fedc35fd",
@@ -2437,7 +2923,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "7152c7f6a1cbfb901c41b902a0abc68f",
@@ -2447,7 +2935,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "946619d9552d9f77514209697131c68f",
@@ -2457,7 +2947,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "fc393032e77d387d9aa5ef5ff8b52452",
@@ -2467,7 +2959,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "d2cbea16f5a94f6dcb32ba9ef265ea23",
@@ -2477,7 +2971,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "99c0250258b2d1ea847933f708fe2098",
@@ -2487,7 +2983,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "1ee456d8564b29402dcaf669ba142e68",
@@ -2497,7 +2995,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 39,
+    "chart_difficulty": 3
   },
   {
     "md5": "290718caa7a5ab5f22860a9003fbfbc4",
@@ -2507,7 +3007,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "0139e0d772872b5dcf28b4b3a569e3e2",
@@ -2517,7 +3019,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
@@ -2527,7 +3031,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e2720dca2efca4f630b28409cacb65fc",
@@ -2537,7 +3043,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "909d6a6c7f4085091387d63c110be125",
@@ -2547,7 +3055,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "879c144fcedbe05b80233a55b8546008",
@@ -2557,7 +3067,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6225436769251b96ef8c142b72004b5e",
@@ -2567,7 +3079,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "0a63132b2c2c27d67a9bb8d519e232fb",
@@ -2577,7 +3091,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "05fb1c337290d057e5c4a46e8b9ea102",
@@ -2587,7 +3103,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "3deae63334e2efcd1d1251591482a48b",
@@ -2597,7 +3115,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "87c040a4993fa22d3430dc97ab886fcc",
@@ -2607,7 +3127,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "98d001d5936fbac50f7e51ac1c4ea9e6",
@@ -2617,7 +3139,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "97d19090d007cec214db095f5e498c83",
@@ -2627,7 +3151,9 @@
     "artist": "Superbia",
     "subartist": "identity:Sakamiya img:ましこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "aa43e400c730433e86e8d0d65a9055c7",
@@ -2637,7 +3163,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "4135e1ab5681e6237d55db98d8a3b988",
@@ -2647,7 +3175,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "795c3dee0080e43c1ed98d1e53de70fc",
@@ -2657,7 +3187,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "76938cf92c0bab2de73dad5ea1576fef",
@@ -2667,7 +3199,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 4
   },
   {
     "md5": "f85ce8f259cc9673a1420f975aa63ad6",
@@ -2677,7 +3211,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "e58208a3e644806de109fec164f68575",
@@ -2687,7 +3223,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 2
   },
   {
     "md5": "e40edd933cd19db304ce804cf3260f04",
@@ -2697,7 +3235,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 53,
+    "chart_difficulty": 4
   },
   {
     "md5": "72d34d249d876168eaf9ebaf67e6361f",
@@ -2707,7 +3247,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 50,
+    "chart_difficulty": 3
   },
   {
     "md5": "b3bf2fa976e39314cc93b592991ec727",
@@ -2717,7 +3259,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 2
   },
   {
     "md5": "f045fc80eec111998ed6675e4549f42b",
@@ -2727,7 +3271,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 4
   },
   {
     "md5": "c5552794054ef928b45e5c2746e1a70b",
@@ -2737,7 +3283,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 1
   },
   {
     "md5": "ad619f96a835f77f433d3d41033e3648",
@@ -2747,7 +3295,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 1
   },
   {
     "md5": "93bfccb37e1a3b1f44bc341383d08eb6",
@@ -2757,7 +3307,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 22,
+    "chart_difficulty": 3
   },
   {
     "md5": "7c58f39a3c257c585e52fc9820c0070c",
@@ -2767,7 +3319,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 2
   },
   {
     "md5": "54f04730ae68476c195c8699eae1d1d6",
@@ -2777,7 +3331,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 34,
+    "chart_difficulty": 2
   },
   {
     "md5": "7388a54b8b6c68620354cffe95c14db6",
@@ -2787,7 +3343,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 3
   },
   {
     "md5": "07dee9e546ee9906f7c9ed6f1dad90bd",
@@ -2797,7 +3355,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 4
   },
   {
     "md5": "d944c636db0ebf2e662c4759c277c41c",
@@ -2807,7 +3367,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 52,
+    "chart_difficulty": 5
   },
   {
     "md5": "90c353a2937ba298dc5331627701eb08",
@@ -2817,7 +3379,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "b7fef2de30a442d29403707bd52f05c5",
@@ -2827,7 +3391,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "919fe5b669842e2beac98653e42872e5",
@@ -2837,7 +3403,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "ac559e0313958efa91bb1eed551d7d42",
@@ -2847,7 +3415,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "1c9ce3d3b3a9e3ba500eba1e6d2632bf",
@@ -2857,7 +3427,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "f44d591fa9184ed707dba381a1685d66",
@@ -2867,7 +3439,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 2
   },
   {
     "md5": "477167b55aff10078a507bf76a9ea097",
@@ -2877,7 +3451,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "b2be65bc1ddab7809623ec02bbba8a60",
@@ -2887,7 +3463,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "5a24a50b3206d86b77a1a29f8e01cf7e",
@@ -2897,7 +3475,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:ばえこん",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 5
   },
   {
     "md5": "61a56b8de2178aca613b620efde7ef2e",
@@ -2907,7 +3487,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 1
   },
   {
     "md5": "a0b1fde43638da2f62878c7d1f92f019",
@@ -2917,7 +3499,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 obj:ゆびでら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 2
   },
   {
     "md5": "96f90c790fd2a361557b46554328d220",
@@ -2927,7 +3511,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "d4367e18b95e3c24e14353929c1ed7a1",
@@ -2937,7 +3523,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "89d522764491170a2f8c669e8407ac79",
@@ -2947,7 +3535,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "8a68ce555f4b40322afc85136e255bed",
@@ -2957,7 +3547,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "c64f928f66a9b6d147d133dcf6117319",
@@ -2967,7 +3559,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "29af1dd88c026f4f7fa03c3f571669eb",
@@ -2977,7 +3571,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "de178963fd26138c688d80c3339a8ac9",
@@ -2987,7 +3583,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "1538b62d26cdab973ff647020c6a6fa7",
@@ -2997,7 +3595,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "6395c26cbe0ac3cfd912ec7a4975e2d7",
@@ -3007,7 +3607,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "4ac1550af87950886c13c6332ea54e0a",
@@ -3017,7 +3619,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "ca55aec962046adeb3e609455af52f53",
@@ -3027,7 +3631,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "c7c5bc4ea5f507bb96aa2d2518efb385",
@@ -3037,7 +3643,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "da88169cad3b3bcb33fe4aa99fd9a627",
@@ -3047,7 +3655,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f32043917ef3c6e6f8e74be689bc4243",
@@ -3057,7 +3667,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "f8ea1de4fcd352db99e4d10c1db4bd23",
@@ -3067,7 +3679,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "6e8fd1813d7faac2f66bbbfe74b0a25c",
@@ -3077,7 +3691,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO / obj:Criyajuh",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 5
   },
   {
     "md5": "a18611f7f5ae815ff0d1c7f657f83ff6",
@@ -3087,6 +3703,8 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   }
 ]

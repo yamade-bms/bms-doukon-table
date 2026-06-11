@@ -7,7 +7,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "109963650f2723a9893032f2d3a3edcf",
@@ -17,7 +19,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "9fae9ca297e05b51882f65cde7928737",
@@ -27,7 +31,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "0a02b91ac5dcfc180670c05aa6a1ae73",
@@ -37,7 +43,9 @@
     "artist": "fragile mental",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "8ff58cc68eedbe4c5dbd2ed39510da59",
@@ -47,7 +55,9 @@
     "artist": "fragile mental",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "eca9725013ba011dfe59107c357d4749",
@@ -57,7 +67,9 @@
     "artist": "fragile mental",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "72da19c5a17f09bdf5f6e482b0a4e45a",
@@ -67,7 +79,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "3f5b6d56074c8712f8405fc9cbfb5213",
@@ -77,7 +91,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "593f874b0f2342fd107887a17cac981e",
@@ -87,7 +103,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "8c4555e7a44f12d9a4dd8f09fedd6d25",
@@ -97,7 +115,9 @@
     "artist": "nmk / Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "02f30a6998eb8b9996d3f95ff0002c10",
@@ -107,7 +127,9 @@
     "artist": "nmk / Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "5e0aa4c35a38e5926df04273d9e12220",
@@ -117,7 +139,9 @@
     "artist": "nmk / Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "335b7ace413615cbcd327117be7ddc89",
@@ -127,7 +151,9 @@
     "artist": "nmk / Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "d81e78e43464791afea99f939e12dc8f",
@@ -137,7 +163,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "a94b1768b8eda7cb6804b0f5214b1b56",
@@ -147,7 +175,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "87bd90446b01fc344f6e17e38e5312ab",
@@ -157,7 +187,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "58a73f727aa13247c896fe66ef37911d",
@@ -167,7 +199,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "c55cfb20d7b3037a32723f9eb0f51e44",
@@ -177,7 +211,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "75e2b3433e1859ce988eeb562b4e9581",
@@ -187,7 +223,9 @@
     "artist": "nmk feat.星名澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "58964ced68ee912e2fc39d3e74fed13d",
@@ -197,7 +235,9 @@
     "artist": "nmk feat.星名澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "e340b0d57c6fb2df05cf932b9fd92146",
@@ -207,7 +247,9 @@
     "artist": "nmk feat.星名澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "83ac94606801e9818a9821e7c718486b",
@@ -217,7 +259,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "27a00218da6cf7598405414f9c5d26bc",
@@ -227,7 +271,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "dc52cda1f79ac3eafbfa6cddab93ec88",
@@ -237,7 +283,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "b0cce2c79fbe4cc4f30506d097ef86ee",
@@ -247,7 +295,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "0175077982e2a7248abbe36c7e5e76f0",
@@ -257,7 +307,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "09a2fa3ddc9e47cd8d65ea90e2efd785",
@@ -267,7 +319,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "64c885054a88bb472b6f332db5706050",
@@ -277,7 +331,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "538036587db5acd882ee910fd6a6ebc9",
@@ -287,7 +343,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 2
   },
   {
     "md5": "29b342c080c2e32607009584b3a7cb01",
@@ -297,7 +355,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "80cd687caff5e949bb817268e5ebf081",
@@ -307,7 +367,9 @@
     "artist": "nmk/かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "9fb06a629c1dc3323107a11671665910",
@@ -317,7 +379,9 @@
     "artist": "nmk/かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "793e20460c1d60d2dca0c10a91890f0f",
@@ -327,7 +391,9 @@
     "artist": "nmk/かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "00efcc74dff208a278712689ebd205e0",
@@ -337,7 +403,9 @@
     "artist": "nmk/かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "d431f5779ff511480101f4612cebbfd4",
@@ -347,7 +415,9 @@
     "artist": "nmk/かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "8fdf3acf26471a55058185dd491d4f1e",
@@ -357,7 +427,9 @@
     "artist": "nmk/PSyCHedelICA",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "6acec7da20198db6228f033c531c4a73",
@@ -367,7 +439,9 @@
     "artist": "nmk/PSyCHedelICA",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "dc0cf85c754713228d98b6a979ec384b",
@@ -377,7 +451,9 @@
     "artist": "nmk/PSyCHedelICA",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "88a61723caf7900b7a957028fd1a1cb2",
@@ -387,7 +463,9 @@
     "artist": "nmk/PSyCHedelICA",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "1c495634856f4d752ffade0bb8cce9a1",
@@ -397,7 +475,9 @@
     "artist": "nmk/PSyCHedelICA",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "352063617a3a3bea91c1a282c3310c74",
@@ -407,7 +487,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "e1d0b8a251cdb00d82c58c54413b657e",
@@ -417,7 +499,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "15b2c6572793fdce78aaba78e8e69ea5",
@@ -427,7 +511,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "883a4470af0cfc86c02c9aa33b1dfc6c",
@@ -437,7 +523,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "7164fa1c89eb56b9aadddf95e48ab7bc",
@@ -447,7 +535,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "4446b28942ba23dff8565cbf745cf518",
@@ -457,7 +547,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "492ea4da78ef7c984b0fb75af51faa13",
@@ -467,7 +559,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "7d79644ea774f68c792b5e2723bce453",
@@ -477,7 +571,9 @@
     "artist": "nmk feat.青井望 / PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "35e92f45e7464c5c928368ee8374dc14",
@@ -487,7 +583,9 @@
     "artist": "nmk feat.青井望 / PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "fc8191ab9c5cffd711ef0c694989fb27",
@@ -497,7 +595,9 @@
     "artist": "nmk feat.青井望 / PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "7bf9aa3d7a85740fe6d1ca40a8961fea",
@@ -507,7 +607,9 @@
     "artist": "nmk feat.青井望 / PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "119412ea3581c0ee7ac97037766cd9ae",
@@ -517,7 +619,9 @@
     "artist": "nmk feat.青井望 / RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "2ebdeb88aca7c6c1ffdc84a501bf5b05",
@@ -527,7 +631,9 @@
     "artist": "nmk feat.青井望 / RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "287d8e3bff3878f75eb91d491e7bac9f",
@@ -537,7 +643,9 @@
     "artist": "nmk feat.青井望 / RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "133fcbe05d550ae5fba1ce82fecd3f91",
@@ -547,7 +655,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "baacbd42c0e97480dd85829320fd3770",
@@ -557,7 +667,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "c1e87c7c434a165f10bd4e77c2cac26a",
@@ -567,7 +679,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "7a7990c51d6a2f7e040d865116fafb34",
@@ -577,7 +691,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "0bd2e0efcab07edbe9aa8593a09fe5fe",
@@ -587,7 +703,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "89b257e08334004df73cf1653e2b4a96",
@@ -597,7 +715,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "0095ae48437cc8c7bec342b8494f71bc",
@@ -607,7 +727,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "e046967da88223db5049f7f450dbd318",
@@ -617,7 +739,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "351f2e6183992318a7af2e596364313f",
@@ -627,7 +751,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "e0db2c85379f3b9947f8d05cf32fdcec",
@@ -637,7 +763,9 @@
     "artist": "nmk vs. b-UMB",
     "subartist": "BGA by 出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "0c459fd26648274b5e0da7ddfea3a6ac",
@@ -647,7 +775,9 @@
     "artist": "nmk/うどん粉",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "2401322a2ef6cc71c7ada97c79a202bd",
@@ -657,7 +787,9 @@
     "artist": "nmk/うどん粉",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "066a6186365ee9ee32dcdc5d976c08f5",
@@ -667,7 +799,9 @@
     "artist": "nmk/うどん粉",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "711006f06cb07a40e4dc6f0afaa8095c",
@@ -677,7 +811,9 @@
     "artist": "nmk/mov:RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "13c2b5ad861169cb8960103c6fd48200",
@@ -687,7 +823,9 @@
     "artist": "nmk/mov:RAY / obj:夢瑠",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 5
   },
   {
     "md5": "e7206b52996c1879e836006189d6fa46",
@@ -697,7 +835,9 @@
     "artist": "nmk/mov:RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "0fa9b8771bbf6538cad759ea01950509",
@@ -707,7 +847,9 @@
     "artist": "nmk/mov:RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "829713f7901d325013db92c24fa66b23",
@@ -717,7 +859,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "30c5d67255a2799653b403e48fa0790c",
@@ -727,7 +871,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "8f49a0a9b3d0e2ad5af72b6ccd16f83e",
@@ -737,7 +883,9 @@
     "artist": "nmk",
     "subartist": "obj:monaka",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 0,
+    "chart_difficulty": 4
   },
   {
     "md5": "b7c4b2b39c5cc94883148c9020ef8a84",
@@ -747,7 +895,9 @@
     "artist": "nmk feat.EUROBEATアイドル橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "8e17f96a8440ff15923bfe228409c9b6",
@@ -757,7 +907,9 @@
     "artist": "nmk feat.EUROBEATアイドル橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "59e5e7ec2c92f63b24cdbf198b57d2db",
@@ -767,7 +919,9 @@
     "artist": "nmk feat.EUROBEATアイドル橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "bfac8aaa97b5a59bdb242d7cae2ce461",
@@ -777,7 +931,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "3362e15401c3ccf879285ce982c5983e",
@@ -787,7 +943,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "cbe2057efbc80b98eca2b50eb51ef1c3",
@@ -797,7 +955,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "3bf39cecb1f4c979d614845be0a9df4c",
@@ -807,7 +967,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "922475413c0ec4f5b000d74b7be75c5f",
@@ -817,7 +979,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "1c5608eab19a51af4a1521761c3de2fb",
@@ -827,7 +991,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "27db517f36e376b07fee75b5bdb656af",
@@ -837,7 +1003,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "7ed1258a799acc19d5293bd3524395e5",
@@ -847,7 +1015,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "e377a8b8dabf13412f0fbd81380ed4c9",
@@ -857,7 +1027,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "5b0cce8b313f1316f4273538c561fa43",
@@ -867,7 +1039,9 @@
     "artist": "Sakamiya feat.nayuta / Remixed by nmk",
     "subartist": "BMS:Chart_Generator/obj:OYAKI",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "2cf900763f3480f38e011b0ed8676b14",
@@ -877,7 +1051,9 @@
     "artist": "Sakamiya feat.nayuta / Remixed by nmk",
     "subartist": "BMS:Chart_Generator/obj:OYAKI",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "91702838e3ce17b33b9f07402bca23c7",
@@ -887,7 +1063,9 @@
     "artist": "Sakamiya feat.nayuta / Remixed by nmk",
     "subartist": "BMS:Chart_Generator/obj:いかお,OYAKI",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "ee61f645c9e203329b61a3fee2e67242",
@@ -897,7 +1075,9 @@
     "artist": "Sakamiya feat.nayuta / Remixed by nmk",
     "subartist": "BMS:Chart_Generator/obj:いかお,OYAKI",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "8590d66a2f55ae6ee9dcca3f559dd80e",
@@ -907,7 +1087,9 @@
     "artist": "Sakamiya feat.nayuta / Remixed by nmk",
     "subartist": "BMS:Chart_Generator/obj:OYAKI",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "0890a98ec9d6863ec0df02e4d8172cc7",
@@ -917,7 +1099,9 @@
     "artist": "ZUN / nmk / NA2KI(CrossGear) / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 1
   },
   {
     "md5": "d0e150a56e09c7f35fe24b7bcf503ac1",
@@ -927,7 +1111,9 @@
     "artist": "ZUN / nmk / NA2KI(CrossGear) / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "656b2c1ee09970e9c85be27bf38eb931",
@@ -937,7 +1123,9 @@
     "artist": "ZUN / nmk / NA2KI(CrossGear) / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "ec35d6cd1001f2f3fc2665d7fc83892c",
@@ -947,7 +1135,9 @@
     "artist": "ZUN / nmk / NA2KI(CrossGear) / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "5786ea6547356848de22d5157c42f919",
@@ -957,7 +1147,9 @@
     "artist": "ZUN / nmk / NA2KI(CrossGear) / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 2
   },
   {
     "md5": "9d7ca4f1649ca81273a63a3de0d8e9de",
@@ -967,7 +1159,9 @@
     "artist": "nmk feat.星名澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "c3a30613b949dfc5af0dd4e5321aa200",
@@ -977,7 +1171,9 @@
     "artist": "nmk feat.星名澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "0ebecc48d7bf2341901a6dc94af4978e",
@@ -987,7 +1183,9 @@
     "artist": "nmk feat.星名澪/BGA NZK",
     "subartist": "obj:hi-low",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "9911fee304204b1beec1a35d24368262",
@@ -997,7 +1195,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "5b2ace3394f29b58958ced251af8b955",
@@ -1007,7 +1207,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "8c1a3cc554b973cf88a2c35e1f059842",
@@ -1017,7 +1219,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "b92d1184635b55e515631bc604a34067",
@@ -1027,7 +1231,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "6f73e283639971a49f490c8e46c7758b",
@@ -1037,7 +1243,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "c547b49feef51e6d143331c14752667d",
@@ -1047,7 +1255,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "4eea57ab679b1b2daf7ed054edb5fa5f",
@@ -1057,7 +1267,9 @@
     "artist": "nmk/エレーナ(犬飼あお)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "af64aae1a8fe4372d45d7ec75e5d1fa7",
@@ -1067,7 +1279,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "e607fa33fccf4667fff5deb6faaf3ea2",
@@ -1077,7 +1291,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "4a6fcab0c8f14b17fd62a83feffc8653",
@@ -1087,7 +1303,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "4b0e1f9ecd4ca532e9cc56f595056924",
@@ -1097,7 +1315,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "02754c33097e2839904a3f86f91b5946",
@@ -1107,7 +1327,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "562bd6d2c8b0395b46aacba534370311",
@@ -1117,7 +1339,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "0d034ee2927bdfd773d379d39f669ede",
@@ -1127,7 +1351,9 @@
     "artist": "東風谷誠 feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "117b7b6b7e4e16afd326809c5514d2b2",
@@ -1137,7 +1363,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "55627a3fa8ca24e3453ac9d035e50f06",
@@ -1147,7 +1375,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "6898acb5d3cb140738ffd3fb0d5ab78e",
@@ -1157,7 +1387,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator/obj:OYAKI BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "774e65a5a36fa2f5074c18abf8c8ffac",
@@ -1167,7 +1399,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator/obj:今を起きる人 BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "e1dfdaadc42eeb84c1832ab9bd7d9d80",
@@ -1177,7 +1411,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "dfa55e66ccba643d3324acd147b9dbfc",
@@ -1187,7 +1423,9 @@
     "artist": "Arrange:nmk / Vocal:A.Dokuga",
     "subartist": "BMS:Chart_Generator BGA:カズッツ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "0c966d850e290dc1279c9cef1efd93f2",
@@ -1197,7 +1435,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "93555f667817e04fdb2fabef5868d01c",
@@ -1207,7 +1447,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "d4111a9bddbafffbaaf8ec8a3518d359",
@@ -1217,7 +1459,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "9e472f7682b33c118385f40d1e753e42",
@@ -1227,7 +1471,9 @@
     "artist": "The waist is painful.",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "282a3075495fd26b068d8a0ecac3f10d",
@@ -1237,7 +1483,9 @@
     "artist": "The waist is painful.",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "410568932cdcf293839148b3069535fb",
@@ -1247,7 +1495,9 @@
     "artist": "The waist is painful.",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "ae493b272e41b937a0c63006ac602b54",
@@ -1257,7 +1507,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "0c3d1393c0957e2d10aeab0c1b681877",
@@ -1267,7 +1519,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "f98969815904ab841bac6c890ba220f8",
@@ -1277,7 +1531,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "ea9b894c937cd3cb346a70731a8aebd7",
@@ -1287,7 +1543,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "df2d054bccdc3c2cb20df47263bcdc62",
@@ -1297,7 +1555,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "dd4c19f7012b7aaa533bcb7ae28dbe24",
@@ -1307,7 +1567,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "8fafd5020031c0df6ca54b81c44c888d",
@@ -1317,7 +1579,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "b8cdbd4320bcc9a0466d9f927ee2ad21",
@@ -1327,7 +1591,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "7ba55c3fe756813a2afec15a11939408",
@@ -1337,7 +1603,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "c6cd0b51d496e1013ace8ed41c21e206",
@@ -1347,7 +1615,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "0b528db561febe5d776f53fe6f75a2ff",
@@ -1357,7 +1627,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:ぐやもこたん",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "a5993b88108598e8d2c950c9b1bdc4d1",
@@ -1367,7 +1639,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:ぐやもこたん",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "56c02c1146fe2e2e5a9ceadb6dc3f31c",
@@ -1377,7 +1651,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:ぐやもこたん",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "eab7983bbeb240713119b1b609e53e81",
@@ -1387,7 +1663,9 @@
     "artist": "nmk feat. 青井叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "eb503181f8a313d18184c1af2e5f6fe7",
@@ -1397,7 +1675,9 @@
     "artist": "nmk feat. 青井叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "1c4eb25f65d344e28fbe567138c97cfa",
@@ -1407,7 +1687,9 @@
     "artist": "nmk feat. 青井叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "864374ddb1bd7c3b017f03fef42b21e5",
@@ -1417,7 +1699,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "f8f666845f66ee0d04ff1af8bbc1661d",
@@ -1427,7 +1711,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "0c4cf5315dc21b883f16275231f2a294",
@@ -1437,7 +1723,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "4be8fa8be648efd80c0e492fc7406562",
@@ -1447,7 +1735,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "d9e797aa007c45245fdbb7b7e06f6872",
@@ -1457,7 +1747,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "2e5149cadfe9ad70bd400f141850093f",
@@ -1467,7 +1759,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "a3f69d61fcdb0756cb09286cb1e1557b",
@@ -1477,7 +1771,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "b024264a266b51fbc89ac5c471ee85ef",
@@ -1487,7 +1783,9 @@
     "artist": "nmk/sPH1Ca/Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "7b9abeab9617012ac33a0c226165d5e2",
@@ -1497,7 +1795,9 @@
     "artist": "nmk/sPH1Ca/Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "322c56f990f37835151641378108058c",
@@ -1507,7 +1807,9 @@
     "artist": "nmk/sPH1Ca/Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "69ceb4d52c91737095bb82dc9dafe03c",
@@ -1517,7 +1819,9 @@
     "artist": "nmk/sPH1Ca/Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "b4ca31ca7f406d29d157349c149f41cf",
@@ -1527,7 +1831,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "83eb0de2ce21d5a1af470293309de9ab",
@@ -1537,7 +1843,9 @@
     "artist": "nmk/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "623f775a4b4e72bce539ea378f7cfd18",
@@ -1547,7 +1855,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "Lyric:夏瀬恭一 Illust:鈴くす BGA:むっつぅ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "8a681a44bf26d52d49e2793fd1b1a636",
@@ -1557,7 +1867,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "Lyric:夏瀬恭一 Illust:鈴くす BGA:むっつぅ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "bd534b6e490b73f5c1e18d36a4f1aae8",
@@ -1567,7 +1879,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "Lyric:夏瀬恭一 Illust:鈴くす BGA:むっつぅ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "fa60762a47601c60a9bec4e3e9c71e11",
@@ -1577,7 +1891,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "Lyric:夏瀬恭一 Illust:鈴くす BGA:むっつぅ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "c3e4b092de3c37411462a785efc1597d",
@@ -1587,7 +1903,9 @@
     "artist": "nmk/obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "37e9dc767603c676033b3c3a633092fb",
@@ -1597,7 +1915,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "2736e9d347002f9ba2d854e919f7ec9b",
@@ -1607,7 +1927,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "a074d6e54717cf40a815ead82996d8fd",
@@ -1617,7 +1939,9 @@
     "artist": "nmk",
     "subartist": "BGA:出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "efca1bed7c681f9f2cb06b1519f3682d",
@@ -1627,7 +1951,9 @@
     "artist": "nmk",
     "subartist": "BGA:出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "db8570e5e1aa7e3c24b04891e672ca81",
@@ -1637,7 +1963,9 @@
     "artist": "nmk",
     "subartist": "BGA:出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "b37ea10556bbc31232f99de03e8ebec4",
@@ -1647,7 +1975,9 @@
     "artist": "nmk",
     "subartist": "BGA:出前",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "b872292240ad1824c11cea229463cf6a",
@@ -1657,7 +1987,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "8ea754e03dad82bc1dd553c473ed2777",
@@ -1667,7 +1999,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "65b2bf04f664ff6a0d58c0cc299b2019",
@@ -1677,7 +2011,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "85b448def9fcff088fe7b7c49ceb03c4",
@@ -1687,7 +2023,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "232433b22e564e6e9023d4ba503193fb",
@@ -1697,7 +2035,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "e5205369634d5161d1c23cc8d57bd5ab",
@@ -1707,7 +2047,9 @@
     "artist": "BLK,Mush(nmk vs. b-UMB)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "1a3e6827d4ab013a52e66cceae992a4d",
@@ -1717,7 +2059,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "Notes:RAY",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "5633acf2f7b56f7e79f8778e4704d3e4",
@@ -1727,7 +2071,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "e4272e9b0b1d074f267d09acd40c0fa9",
@@ -1737,7 +2083,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "625db11cae1e9db588828dd43c56ec54",
@@ -1747,7 +2095,9 @@
     "artist": "nmk feat.かなえゆめ / 奈那樹",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 5
   },
   {
     "md5": "1317163147895b9ab4197e00a8265f68",
@@ -1757,7 +2107,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "481d8fff75e90291c2a74da22c422d04",
@@ -1767,7 +2119,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "b60792630d9d218bf9bf4822a79953a6",
@@ -1777,7 +2131,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "4259375ae526d49efb68c2f6df4d6735",
@@ -1787,7 +2143,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "05c18a8ace7a9d697dd2da9e77c23b92",
@@ -1797,7 +2155,9 @@
     "artist": "nmk underground/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "9511c2e9577974ec07b1dd4e67a5df78",
@@ -1807,7 +2167,9 @@
     "artist": "nmk underground/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "0ea41cd3d2f97e56f663b4210a773fcb",
@@ -1817,7 +2179,9 @@
     "artist": "nmk underground/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 1
   },
   {
     "md5": "a3d3b1740b4634263ac8ff9095959c17",
@@ -1827,7 +2191,9 @@
     "artist": "nmk underground/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "aca1e3d1855fdf9dedf5dbc33da6858f",
@@ -1837,7 +2203,9 @@
     "artist": "nmk underground/sPH1Ca",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "0d624955413c218a0417e26540cbe06d",
@@ -1847,7 +2215,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "7cda74bdd1200b49a77a802ec3772f64",
@@ -1857,7 +2227,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "73493b839dba8174d59ae91601889743",
@@ -1867,7 +2239,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "34eea2c22b8e05703547a410bfcf69b4",
@@ -1877,7 +2251,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "BGA:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "42437c303da2de821f06b11703126710",
@@ -1887,7 +2263,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "0c8f448aa8550283937e48292d802fce",
@@ -1897,7 +2275,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 42,
+    "chart_difficulty": 4
   },
   {
     "md5": "ade8b25c20c58c968456332a2a8bfd08",
@@ -1907,7 +2287,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "94b40b82cc9b495e8da92a5025946d75",
@@ -1917,7 +2299,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 33,
+    "chart_difficulty": 3
   },
   {
     "md5": "91c4848cc5a8d64e70809243a8e896bf",
@@ -1927,7 +2311,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "9bd0cb3888a3ee1d386f5d025470643e",
@@ -1937,7 +2323,9 @@
     "artist": "空見沢佳奈(CV:Alisa.T) RMX by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 14,
+    "chart_difficulty": 2
   },
   {
     "md5": "6a33e342a1767e9876bb1c77c9e74656",
@@ -1947,7 +2335,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "c79e2b1a03e7f9b8eec54c9be9ccdb80",
@@ -1957,7 +2347,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "daebe5396dddde92a3e7cbc6291896a4",
@@ -1967,7 +2359,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "d2be855e1793b23d77025dc1f663d304",
@@ -1977,7 +2371,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "633a9d6f7ce094440c2efd76c4bf6618",
@@ -1987,7 +2383,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "27ad91a318c5475ba1e48e2ac18bbdb3",
@@ -1997,7 +2395,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "9e7d22041011eb4600f9bec892dad11c",
@@ -2007,7 +2407,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI/obj:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "89a63b779c1ff8f1d8620c7e7a162a46",
@@ -2017,7 +2419,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "98449529ad00a5636af301a27e57d78f",
@@ -2027,7 +2431,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "d39a08b534fdcfd1de76f7bcde9bc319",
@@ -2037,7 +2443,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI/obj:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 0,
+    "chart_difficulty": 5
   },
   {
     "md5": "7eacfb64659eebb29701b72945ac8bbc",
@@ -2047,7 +2455,9 @@
     "artist": "nmk feat.nayuta",
     "subartist": "BMS:OYAKI BGA:ジンジャー塚原",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "155b05330484c5a281bd980fd082250a",
@@ -2057,7 +2467,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "070d34b5763129fa03cb8e5825113f35",
@@ -2067,7 +2479,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "44f5ce6c6bba9c6ae58f0ce4d31b8c83",
@@ -2077,7 +2491,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "644e0f7c96f64b44bd1e99864bd7ba60",
@@ -2087,7 +2503,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "bbef88ff8a5e225905596fd2c86d818c",
@@ -2097,7 +2515,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "035bef4f7765f90b711748402026549a",
@@ -2107,7 +2527,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "8385c93204c48a8739c0964613a02daa",
@@ -2117,7 +2539,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "4151367c1e19f60b76b1b790b380f4c1",
@@ -2127,7 +2551,9 @@
     "artist": "nmk fw.かのん",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "9015d85064d5a071fb62991db42b7d9d",
@@ -2137,7 +2563,9 @@
     "artist": "nmk fw.かのん / obj. laner",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 4
   },
   {
     "md5": "04bf9b1440d00a626611a1d5b1732c34",
@@ -2147,7 +2575,9 @@
     "artist": "nmk fw.かのん",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "1d6c319b8d11b08573fd3f9c4ae60319",
@@ -2157,7 +2587,9 @@
     "artist": "nmk fw.かのん",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "37b65ea25bf7b62e44eaeac6e9bd739d",
@@ -2167,7 +2599,9 @@
     "artist": "nmk/1B",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "7102a579bc4f5782242838a616026d0b",
@@ -2177,7 +2611,9 @@
     "artist": "nmk/1B",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "a7f1522dd989cc4a85bef6360d079ebc",
@@ -2187,7 +2623,9 @@
     "artist": "nmk/1B",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "7be42f910bf5bb165b0efc63fc1c938a",
@@ -2197,7 +2635,9 @@
     "artist": "nmk/1B",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "ccdd2b59db12d9fff7edf2afd1ca4830",
@@ -2207,7 +2647,9 @@
     "artist": "nmk feat.星名 澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "0860fecbbba2ba8c85653448087f8d07",
@@ -2217,7 +2659,9 @@
     "artist": "nmk feat.星名 澪",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "9be822e3f99ccfb345a34f4c17b70ac3",
@@ -2227,7 +2671,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "73a71bc37c229e4f2e3e070bbff903c4",
@@ -2237,7 +2683,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "9e6e56c1754717022e7419afa9a977c1",
@@ -2247,7 +2695,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "365202c66c09c77c8fa44076994c69e1",
@@ -2257,7 +2707,9 @@
     "artist": "ZUN&SADA (arranged by Ark-Z with nmk)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "50466d38deeb5543d83e1263364485d5",
@@ -2267,7 +2719,9 @@
     "artist": "ZUN&SADA (arranged by Ark-Z with nmk)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 1,
+    "chart_difficulty": 5
   },
   {
     "md5": "d8341212ce3c05755c8760d297cc74be",
@@ -2277,7 +2731,9 @@
     "artist": "ZUN&SADA (arranged by Ark-Z with nmk)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "0d3da840341b41de1956e42bc0107c56",
@@ -2287,7 +2743,9 @@
     "artist": "ZUN&SADA (arranged by Ark-Z with nmk)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 5
   },
   {
     "md5": "d7bf4ab4d6251063beb16e0338b3a4dd",
@@ -2297,7 +2755,9 @@
     "artist": "ZUN&SADA (arranged by Ark-Z with nmk)",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "2a744c3af2298d011e17e60c0c480b1e",
@@ -2307,7 +2767,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "e871cdb32868f7fb5985fcf60b84ef76",
@@ -2317,7 +2779,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "3e59d7c4d9a11f32d3f9f15c8adfe558",
@@ -2327,7 +2791,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "5d81be02a008ffd31d58d222bd4e3d8c",
@@ -2337,7 +2803,9 @@
     "artist": "nmk obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "57db391761cc5eed85481eb60607c6d5",
@@ -2347,7 +2815,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "cbbd414abfedc6fd24444e0aeb8c7787",
@@ -2357,7 +2827,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "49e06e77ec27947a9cebd9ad575d3927",
@@ -2367,7 +2839,9 @@
     "artist": "nmk feat.Salita",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "e845cb035ece5655907f77d6ec495fb6",
@@ -2377,7 +2851,9 @@
     "artist": "nmk feat.Salita",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "1d6e43faa9d44bdfface7373e54fe059",
@@ -2387,7 +2863,9 @@
     "artist": "nmk feat.Salita",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "1baf03b893db3b8d4a40e047d57a2b92",
@@ -2397,7 +2875,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "63f430edb3a23af483e52950ba1eaaa2",
@@ -2407,7 +2887,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "ffccc268556342bd7970729c94d4494b",
@@ -2417,7 +2899,9 @@
     "artist": "nmk feat.かなえゆめ mov:わっふゑ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "6b6c91af8f9546ea8fcd65a6023ed0d5",
@@ -2427,7 +2911,9 @@
     "artist": "nmk feat.かなえゆめ mov:わっふゑ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "c524f3e631a0412cb14e190902da3388",
@@ -2437,7 +2923,9 @@
     "artist": "nmk feat.かなえゆめ mov:わっふゑ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "addaab1643ebe145666cccac768d6c2c",
@@ -2447,7 +2935,9 @@
     "artist": "nmk feat.かなえゆめ mov:わっふゑ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "9f77f36850af8cbd81ae3d93378c2e08",
@@ -2457,7 +2947,9 @@
     "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "b81b0e4ed08d72363605484d51619707",
@@ -2467,7 +2959,9 @@
     "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "fd9aac049f6a01daabb98cfd83dc2e19",
@@ -2477,7 +2971,9 @@
     "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ",
     "subartist": "obj:PiPiNeko",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 25,
+    "chart_difficulty": 4
   },
   {
     "md5": "ea762844c8994f7591ed31830815acec",
@@ -2487,7 +2983,9 @@
     "artist": "nmk feat.雪城あゆむ Movie:iimo with 紗々目ユキ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "6364416930b480dc8ac9a2f235e427c4",
@@ -2497,7 +2995,9 @@
     "artist": "nmk/-if-",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "1317d76bfded3e4889c908709e0e1270",
@@ -2507,7 +3007,9 @@
     "artist": "nmk/-if-/obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "ad5af75cc7ac88d2ecbdb8ab73ae57a2",
@@ -2517,7 +3019,9 @@
     "artist": "nmk/-if-/obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "151abfb0cdcf8ef3dd13a7bc9be74cc7",
@@ -2527,7 +3031,9 @@
     "artist": "nmk/-if-/obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 2
   },
   {
     "md5": "c30af6acf0b841694baac02293de95d1",
@@ -2537,7 +3043,9 @@
     "artist": "nmk/-if-/RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "23a8fcfac7c3a1bd3653d7c5fe2f19fb",
@@ -2547,7 +3055,9 @@
     "artist": "nmk/-if-/obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "3d14fc2508d0d550af1a46d6560690ab",
@@ -2557,7 +3067,9 @@
     "artist": "nmk/-if-/obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "745c6a17c9903e39436db6393015bea6",
@@ -2567,7 +3079,9 @@
     "artist": "nmk/-if-/RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "17fefda5c3304ce272826526e8dfcfdf",
@@ -2577,7 +3091,9 @@
     "artist": "nmk/-if-/obj:Ark-Z",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "b850b61b60c3cee0e0fb92dbc3b88832",
@@ -2587,7 +3103,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "7fb851db22b9f74b1aae3f9ec363bb3e",
@@ -2597,7 +3115,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "86c56fb3ef4eddbc1852dc39a24ff489",
@@ -2607,7 +3127,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "0cb877ceb1fbb930e5e2f5b7e80893b8",
@@ -2617,7 +3139,9 @@
     "artist": "nmk / nnk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "0fad07c6697aa10a05eb97946baeaab2",
@@ -2627,7 +3151,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "fce4d5b337fefbc6af465ac115d9679b",
@@ -2637,7 +3163,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "998981dc5a30c6f81a4be28a592dbc94",
@@ -2647,7 +3175,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "51dc2bd81a1c8d4cd3458dfe4d2c2089",
@@ -2657,7 +3187,9 @@
     "artist": "ZUN / nmk / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "d1ec4a73d6c1369dccc45b0eb49d3b0e",
@@ -2667,7 +3199,9 @@
     "artist": "ZUN / nmk / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "e30f2672cb6c8d937d4c5ad80fb39883",
@@ -2677,7 +3211,9 @@
     "artist": "nmk feat.青井望",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "45b0cc51d17774bf6aaf0585d7e568e4",
@@ -2687,7 +3223,9 @@
     "artist": "nmk feat.青井望",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "21c07460e0884b2756ab1993d245faa3",
@@ -2697,7 +3235,9 @@
     "artist": "nmk feat.青井望",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "19cf48e4b28ea36e99620a8d49f1a2eb",
@@ -2707,7 +3247,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj：RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "48fc867a83bf98828a472de1d516797b",
@@ -2717,7 +3259,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "424005f834c17a46822230d934ab3ecc",
@@ -2727,7 +3271,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj：RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "f313cd7a4639094b7b3935bc3b155d98",
@@ -2737,7 +3283,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj：RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "70945d53f13997b20614b116888205fa",
@@ -2747,7 +3295,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "31edf56177a76e0cbbbf97ae0d4e57e9",
@@ -2757,7 +3307,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj：RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 2
   },
   {
     "md5": "946d078ae23248668ae61dad8cc05c7c",
@@ -2767,7 +3319,9 @@
     "artist": "nmk / Cepokato=Ilishaninov / obj@PEN",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "ccf5b56eda218860ae8171045c3a35a7",
@@ -2777,7 +3331,9 @@
     "artist": "nmk / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "7936bc28defc90552f1b70fe007755b3",
@@ -2787,7 +3343,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "7e14e7556a65be344539b7fd94d8ae4f",
@@ -2797,7 +3355,9 @@
     "artist": "nmk / obj RAY",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "22aea40bda7f3aa1cb578f352c3bb65c",
@@ -2807,7 +3367,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "Illustration:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "2dbea18093752099ed1252a64d077697",
@@ -2817,7 +3379,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "Illustration:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "d94893489233986b33f2bfe2a10a92b4",
@@ -2827,7 +3391,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "Illustration:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "ac4a1de35b6cbf636227b68266cabc61",
@@ -2837,7 +3403,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "Illustration:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "4757c602cdc6a97ad90b0fde30ccf692",
@@ -2847,7 +3415,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 4
   },
   {
     "md5": "ecd749856bfadee67fcea319066f9f8d",
@@ -2857,7 +3427,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "035d29e953ff4a4ffad076212ec35765",
@@ -2867,7 +3439,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "2d586298ffe1873b4e8dd9f755d89082",
@@ -2877,7 +3451,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 34,
+    "chart_difficulty": 4
   },
   {
     "md5": "0b4f30dae0d4565ad471e0300e6217b2",
@@ -2887,7 +3463,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 28,
+    "chart_difficulty": 3
   },
   {
     "md5": "986fc09e84bdd96e0c70e12d31e75eb8",
@@ -2897,7 +3475,9 @@
     "artist": "橘花音 かなえゆめ composed by nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 2
   },
   {
     "md5": "f61d876bba1214b02fd1e32545ec1dd7",
@@ -2907,7 +3487,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generator obj:nmk BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "a766c89e91856548cb6792f33722aee5",
@@ -2917,7 +3499,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generator obj:nmk BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "fe6a342d13aaf40f3ae1b7a941533300",
@@ -2927,7 +3511,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generato obj:OYAKI BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "46da3141541d92632631a2e06694e06b",
@@ -2937,7 +3523,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generato obj:OYAKI BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "b4f19d95c91faf4dd7c30b751d0bbd4c",
@@ -2947,7 +3535,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generator obj:nmk BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "214e387a56559d421d71d314f0f40bbe",
@@ -2957,7 +3547,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BMS:Chart_Generator obj:nmk BGA:自動車 原付 イラスト:ambasa☆",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "cae283241da4082aa3c9559d1cf68dd4",
@@ -2967,7 +3559,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "f94da6ff22f9ff5531ce88b823c16fac",
@@ -2977,7 +3571,9 @@
     "artist": "Ludwig van Beethoven Arr.nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "329601cabd8ab8901198f22bc913f727",
@@ -2987,7 +3583,9 @@
     "artist": "Ludwig van Beethoven Arr.nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "ee368567e3f607c4edfa63db909f45ec",
@@ -2997,7 +3595,9 @@
     "artist": "Ludwig van Beethoven Arr.nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "f558a0d591f20aba9a4eb5a6a88c6a92",
@@ -3007,7 +3607,9 @@
     "artist": "nmk feat.雪歌ユフ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "82bcee21f799689d5c4ee012703ed3e0",
@@ -3017,7 +3619,9 @@
     "artist": "nmk feat.雪歌ユフ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "1dcffe058fbd3c2536736f1464084d09",
@@ -3027,7 +3631,9 @@
     "artist": "nmk feat.雪歌ユフ / Symphonian",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "ae17f9b8f50b7c73e3a571a237ab4580",
@@ -3037,7 +3643,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 2
   },
   {
     "md5": "6f85478f3142a92cec059404bcb90990",
@@ -3047,7 +3655,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 1
   },
   {
     "md5": "ce9b3fa9e110749188e698f252cfaa96",
@@ -3057,7 +3667,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 0,
+    "chart_difficulty": 2
   },
   {
     "md5": "4022427196fc9fb8e547b78833ebd444",
@@ -3067,7 +3679,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "e1dcd6b4ab63bfec65fd053d868911fe",
@@ -3077,7 +3691,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "Guitar:はらたま BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "bf4319df1c7a8d2b1138bdf26d5bb350",
@@ -3087,7 +3703,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "Guitar:はらたま BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "d3b2b38877a6d5b0033e65dd83c730fa",
@@ -3097,7 +3715,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "Guitar:はらたま BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "f6f022817ce319bceb1c5ded841a3aa3",
@@ -3107,7 +3727,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "Guitar:はらたま BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "fa58378cc228a171ca9452a9aa8b6355",
@@ -3117,7 +3739,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "de409b758bd5ccbc1d9f03cb7dd8a9a4",
@@ -3127,7 +3751,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f61747563d600d800d5d0641ed88d4ae",
@@ -3137,7 +3763,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "34bb1f2541d98ef103dc67f264e56adb",
@@ -3147,7 +3775,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6779b53d4690706234e15d5a7a56c41b",
@@ -3157,7 +3787,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "30c1628d4c606bf3e19eea1b118acc2e",
@@ -3167,7 +3799,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "83dcdc472db2bee36e2243310bca19cf",
@@ -3177,7 +3811,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "1492a56c03f873dab9d1f2fe6cbfeb02",
@@ -3187,7 +3823,9 @@
     "artist": "nmk feat.かなえゆめ / sequence by ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "ac32b260ba63e398f36930c533514cbd",
@@ -3197,7 +3835,9 @@
     "artist": "nmk feat.一花",
     "subartist": "Illust:りーふぱい/BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "1f577fbcc3f269b7315c96f8cae0c925",
@@ -3207,7 +3847,9 @@
     "artist": "nmk feat.一花",
     "subartist": "Illust:りーふぱい/BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "0e08a0a14f1ed4e23d90019beea5b100",
@@ -3217,7 +3859,9 @@
     "artist": "nmk feat.一花",
     "subartist": "Illust:りーふぱい/BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "2d35f32ee74faf4322b1da77f22f42f2",
@@ -3227,7 +3871,9 @@
     "artist": "nmk feat.一花",
     "subartist": "Illust:りーふぱい/BGA:わっふゑ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "0a0a529e24af58e55561df44f3ace4c2",
@@ -3237,7 +3883,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "d9f20a7d05f284ffe66ca2d017444987",
@@ -3247,7 +3895,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "02cccc7fb1561ed3587abcda6111ea46",
@@ -3257,7 +3907,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "9e63c9c520697db2f74c01423dd079e2",
@@ -3267,7 +3919,9 @@
     "artist": "nmk feat.橘花音",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "4e9ac1bbdb4be238307b978a225b3068",
@@ -3277,7 +3931,9 @@
     "artist": "nmk feat.℃ｉｅｌ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "1528dc2ed5654dea82cc827b9e6996a5",
@@ -3287,7 +3943,9 @@
     "artist": "nmk feat.℃ｉｅｌ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "bb515279fc2ca77157019a2cf1941241",
@@ -3297,7 +3955,9 @@
     "artist": "nmk feat.℃ｉｅｌ",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "2fe3c40f1775a48a38d474b74e92f1dc",
@@ -3307,7 +3967,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "7eb1123603d93535e4161556bb362dec",
@@ -3317,7 +3979,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "fd9ea03f6d4f9f09062c770bb0cf0843",
@@ -3327,7 +3991,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "a399e95d4f6d8650473a8f5eca8c1e3c",
@@ -3337,7 +4003,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "2a5d067b8acbb9704a3afa115cc00da3",
@@ -3347,7 +4015,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "754c4867898ad520dee7cd35796fd47c",
@@ -3357,7 +4027,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:石王マサト",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "5b3f516aafb390de00c0fce05bd5f24c",
@@ -3367,7 +4039,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "eee2f9f206644e393a0cae358b16a487",
@@ -3377,7 +4051,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "a21acd65f224dd9b13e221e7659b1439",
@@ -3387,7 +4063,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "81cf0349c6639748f595dac0bb940bfa",
@@ -3397,7 +4075,9 @@
     "artist": "ひより(CV:ＯＲＩ姫) 作詞,作曲:nmk",
     "subartist": "BGI:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "37e70fe02796772924b492bddd2c9665",
@@ -3407,7 +4087,9 @@
     "artist": "ひより(CV:ＯＲＩ姫) 作詞,作曲:nmk",
     "subartist": "BGI:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "42c3bafac011d078332927ed0069bbcc",
@@ -3417,7 +4099,9 @@
     "artist": "ひより(CV:ＯＲＩ姫) 作詞,作曲:nmk",
     "subartist": "BGI:アカツキユウ",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "4d62548faa6876f71c5757d183fc5eb5",
@@ -3427,7 +4111,9 @@
     "artist": "ひより(CV:ＯＲＩ姫) 作詞,作曲:nmk",
     "subartist": "眼鏡親衛隊精鋭おたくの皆様",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 0,
+    "chart_difficulty": 5
   },
   {
     "md5": "e0b6ddd01d9c10d755692d1380a141a5",
@@ -3437,7 +4123,9 @@
     "artist": "nmk feat.青井 叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "ce508b2eb7af21633722259a007aacb9",
@@ -3447,7 +4135,9 @@
     "artist": "nmk feat.青井 叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "9c547fde9f942b0e177c6c237d83cb0a",
@@ -3457,7 +4147,9 @@
     "artist": "nmk feat.青井 叶",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "e7d9db732fdd6a33a091aef9f228bbcf",
@@ -3467,7 +4159,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "4f24b7ffca9baf218b6daf3f5e363938",
@@ -3477,7 +4171,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "b41b2f7fb62137b65bb8153fe842890d",
@@ -3487,7 +4183,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "7b41033aa8519ddf84aebaefb3b62159",
@@ -3497,7 +4195,9 @@
     "artist": "nmk feat.かなえゆめ",
     "subartist": "BGA:SIGMA/ASTE Illust:かぜっと",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "d6efd85944a06fa324478ec6f5e7c819",
@@ -3507,7 +4207,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "e1eb776f92a20f023a221412950860c9",
@@ -3517,7 +4219,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "267c3f4254a5c4b871d3008e7a0f9df6",
@@ -3527,7 +4231,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "385773ec5983656b9841eafa9d0c8186",
@@ -3537,7 +4243,9 @@
     "artist": "nmk",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "a6dcd7eb9751df5097c59c8077df2750",
@@ -3547,7 +4255,9 @@
     "artist": "暁美ほむら",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "c2be854af79ad22d7bcd1079e81a1b3a",
@@ -3557,7 +4267,9 @@
     "artist": "暁美ほむら",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "1144d2f1107269723601358a85bf2d26",
@@ -3567,7 +4279,9 @@
     "artist": "暁美ほむら",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "828498d16ee98ee29e28959de35ae8ef",
@@ -3577,7 +4291,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "43b3251de210ee2732ec7e852e6a3be4",
@@ -3587,7 +4303,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "dda05ffa09c57031facacca1b4072227",
@@ -3597,7 +4315,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "5adcf09f858640e400bdd0c810c052d8",
@@ -3607,7 +4327,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "e3b180b3b0fbcd7624eb5113abacfcd0",
@@ -3617,7 +4339,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "d0be193e7352db82140ca6c0244f4702",
@@ -3627,7 +4351,9 @@
     "artist": "yuya/nmk/ojaga",
     "subartist": "",
     "comment": "",
-    "level": "nmk"
+    "level": "nmk",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "19520de47ff324677caa3c18560f7a29",
@@ -3637,7 +4363,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "01104d7fe437edd2cffb1509f43e1a4e",
@@ -3647,7 +4375,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "062680850c37aa5e39a74e7660af7df7",
@@ -3657,7 +4387,9 @@
     "artist": "11.Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:Sakamiya",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "a3d7ed601c6084fa8219392d057a6ebc",
@@ -3667,7 +4399,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu ntoes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 4
   },
   {
     "md5": "79ba99805695bdbdcc9c0639861b7691",
@@ -3677,7 +4411,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 39,
+    "chart_difficulty": 3
   },
   {
     "md5": "bb20874801263c8e7b38d2294ec51382",
@@ -3687,7 +4423,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:0samil0",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 26,
+    "chart_difficulty": 2
   },
   {
     "md5": "f41a990d8137150f510e74468d9f2244",
@@ -3697,7 +4435,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "e97e7a48c09a48628cba2f0bcce97354",
@@ -3707,7 +4447,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "599e2d6a8b6cbb02c5c301f66917556a",
@@ -3717,7 +4459,9 @@
     "artist": "11. Pops team feat.小宮真央",
     "subartist": "img:hamalu notes:alt",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "3ab3bd723fcb67e54f724c3cd86ae817",
@@ -3727,7 +4471,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "19df27b508da826d539689dee7344a94",
@@ -3737,7 +4483,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "a0152eb7b4110305967f6b38bcfc2e94",
@@ -3747,7 +4495,9 @@
     "artist": "Nelf",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "7964104ca49351d29c6382009a83d983",
@@ -3757,7 +4507,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "9e84f048b4517e1b0ad50e739ae04f3f",
@@ -3767,7 +4519,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "323ad2063196ac85eeb788e57b50a6ca",
@@ -3777,7 +4531,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ notes:swa",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "c86923afc764b887b6e8c649146a7d98",
@@ -3787,7 +4543,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "aebfcff33f9777ce806d490320be8c79",
@@ -3797,7 +4555,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "59f75a50a029dc0695e4d9beac9873a6",
@@ -3807,7 +4567,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "e89377fac7e63fc95e9dec1181c32ade",
@@ -3817,7 +4579,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "c0314ed298a57ce80d6120d299a200d1",
@@ -3827,7 +4591,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:なのたろ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "dab71e4d8028aa240fb8316f99ba3790",
@@ -3837,7 +4603,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "453ad933e398f4022cd97ced9d1a3afd",
@@ -3847,7 +4615,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "6399378a078788cf24a26c383e010b3c",
@@ -3857,7 +4627,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "91aeccdfe6aa4507e90fb5515edf1fcc",
@@ -3867,7 +4639,9 @@
     "artist": "Sakamiya feat.橘花音",
     "subartist": "img:うまるつふり",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "daa62c45698003d63784e0022d062fc4",
@@ -3877,7 +4651,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "bb1f70d59fd5027723b8d6e25f0fe8d3",
@@ -3887,7 +4663,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "7f579ed42131ea0f960f8ccbca5c6b84",
@@ -3897,7 +4675,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "3683acff5afee41355b5e8283be44a33",
@@ -3907,7 +4687,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "fc8f0bba10b7b42418cf0fda01eb2008",
@@ -3917,7 +4699,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "7c1fa6473d7839b175f4aaaa41c27843",
@@ -3927,7 +4711,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "42ae933f84e1f29bf7a12f6f04c4be34",
@@ -3937,7 +4723,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "289e3298016255adb4a065fdccc1f1c1",
@@ -3947,7 +4735,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "99a1cccf1beafc47268555e138e6f4af",
@@ -3957,7 +4747,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "74b62e4ae1878268d33c5e328243a1dd",
@@ -3967,7 +4759,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "252bcf5a72f440bcedd74e65350b1ca2",
@@ -3977,7 +4771,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "617d0802bd2d6ba5a5652c5aa04caa51",
@@ -3987,7 +4783,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:十恵",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "0e80430101f31cdd4c89a77a0c2e6e48",
@@ -3997,7 +4795,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "42a4b7efc878af09e76a8360a1df79d3",
@@ -4007,7 +4807,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "5a10b038203791d9565e318e9ef767ca",
@@ -4017,7 +4819,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "1771d143df10505ee30f8907cd15cee4",
@@ -4027,7 +4831,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 50,
+    "chart_difficulty": 5
   },
   {
     "md5": "d138702ee4503b12d8fb4e23e6203fcb",
@@ -4037,7 +4843,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru ntoes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "b869b18d15234b3169564eda927d76c0",
@@ -4047,7 +4855,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "210ec3ab5b603bdc3d4677caed46ea0a",
@@ -4057,7 +4867,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e4818184e31de81c393184f4636a9ccc",
@@ -4067,7 +4879,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "5bdf51d5a207f74f290d020965c8c3c4",
@@ -4077,7 +4891,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "e1210d6b66db49288dae40c852aea6d5",
@@ -4087,7 +4903,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "4e92143c586a85c7176878feb1f2fe7a",
@@ -4097,7 +4915,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "1ace23f0af5a53d1d9fdbe1c6a521661",
@@ -4107,7 +4927,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "bcb25c89f7d006eec25a4f8436f65218",
@@ -4117,7 +4939,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:ELIGOS",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "dc1ac1d67463892d957b1d410773557f",
@@ -4127,7 +4951,9 @@
     "artist": "Sakamiya feat.A.Dokuga",
     "subartist": "img:HalHAL Lyrics:uoru notes:ELIGOS",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 19,
+    "chart_difficulty": 5
   },
   {
     "md5": "950e0e89160c5e2385337d0a1c94391b",
@@ -4137,7 +4963,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "9bf5831516d52e85c3d544bb5ff89b78",
@@ -4147,7 +4975,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "471fdc10770fec4e6db0a91bc155d916",
@@ -4157,7 +4987,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "382ab1016f1865a09bf6cbb5d8cb8891",
@@ -4167,7 +4999,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:ミロ飲め夫 Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "cd50e9c08d04a7717c18d65011dd0d19",
@@ -4177,7 +5011,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "4ffb9ce44eca574720d5ef76f93257a0",
@@ -4187,7 +5023,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "b7170ec64a711966efba412320f1d057",
@@ -4197,7 +5035,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "41b13fce004dd4c10a2359e9443676df",
@@ -4207,7 +5047,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "6f06846a548197aacee7fdcb4082d565",
@@ -4217,7 +5059,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "d32e5481a8c6cd7500bc3cc637e1a914",
@@ -4227,7 +5071,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 4
   },
   {
     "md5": "9a10b283f5a572266a5a4469346b9fd7",
@@ -4237,7 +5083,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 1
   },
   {
     "md5": "4384713f6c42a21b6a9db09298a324d8",
@@ -4247,7 +5095,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "9b6f477d3939f41f782bd8cb37af291e",
@@ -4257,7 +5107,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "2579d989fab6cc3b3bebb367de4792aa",
@@ -4267,7 +5119,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 32,
+    "chart_difficulty": 2
   },
   {
     "md5": "04f5bb36eb3adc01cc05de8ee8350101",
@@ -4277,7 +5131,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "38e2fcf8ecc14ddcd37aa2ed4814d2a7",
@@ -4287,7 +5143,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "9b2a838554ed0db924cf59068824f77d",
@@ -4297,7 +5155,9 @@
     "artist": "Sakamiya feat.nayuta",
     "subartist": "mov:Nao_AnD img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "3b06d0d1d3343dccf0f717f05c572974",
@@ -4307,7 +5167,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "127e1a89f70928f1c9b477e887173936",
@@ -4317,7 +5179,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "3df438678a7716782bee8150ab8d238c",
@@ -4327,7 +5191,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "6940ad2ab7812fcbc1a26b83035b49f6",
@@ -4337,7 +5203,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "cbb5f9fcea29de55b545690f44948310",
@@ -4347,7 +5215,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "9688b2a66f84fceab3d692feca588c9a",
@@ -4357,7 +5227,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 4
   },
   {
     "md5": "3e2097c0b6a1c9ddfbe9eb3b642d2342",
@@ -4367,7 +5239,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 37,
+    "chart_difficulty": 3
   },
   {
     "md5": "c66eb521b6e946087a4362155a1823fc",
@@ -4377,7 +5251,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 2
   },
   {
     "md5": "44da55b88539836e5f114c0f99376c36",
@@ -4387,7 +5263,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "18ab7004af560f2311066c065af501c3",
@@ -4397,7 +5275,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv ntoes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "e2144c8d9b52e2d318def56f5a818e81",
@@ -4407,7 +5287,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv notes:hi-low",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "2c6cc2fc0b63ccbdc2198dc7426cc125",
@@ -4417,7 +5299,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "450eb6fb72186b8f9d476c40e3031d3e",
@@ -4427,7 +5311,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "5453c798eac34effec348527b801c3ae",
@@ -4437,7 +5323,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "7fed510f07739c326aac1e6bc8c2bcbd",
@@ -4447,7 +5335,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "afd5db09ff5fbf4c7009f6e4939a7ef1",
@@ -4457,7 +5347,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "063428fb3584199d4a779d0b4a76c44e",
@@ -4467,7 +5359,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "032953a7340a7c8ac7aee716c52180c9",
@@ -4477,7 +5371,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "8e6fedc7d22a863b9cbcee98cc16e7d7",
@@ -4487,7 +5383,9 @@
     "artist": "RMX:Sakamiya feat.黄身",
     "subartist": "img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "d3d5d8065d6f95ea98fc2e98f72089e4",
@@ -4497,7 +5395,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "9958d1777523a565fa8ee4df35e94cd0",
@@ -4507,7 +5407,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "dfe14086df679fcc72bb2cca2982a3a4",
@@ -4517,7 +5419,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico notes:C4",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "11053705bab081e19c0e40184170f5b7",
@@ -4527,7 +5431,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "63f5cfbd55aed40cff0fe856735edc6b",
@@ -4537,7 +5443,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "fc4e4483a5bffc018eb7215379b824d2",
@@ -4547,7 +5455,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "48c1436ba5fc22acb5e79523019aff22",
@@ -4557,7 +5467,9 @@
     "artist": "Sakamiya",
     "subartist": "bg:Arishima_Caprico",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "c92c96e406e2f19ab4f5164a3ad895d2",
@@ -4567,7 +5479,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "776d54e3944c8638afb139870ba83eb9",
@@ -4577,7 +5491,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "985ce81581296ff6e7dfcc7a6b677530",
@@ -4587,7 +5503,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "d635abcbf00b403e23471bce851007e3",
@@ -4597,7 +5515,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "757c191466280a8860182bf230dde6bb",
@@ -4607,7 +5527,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 41,
+    "chart_difficulty": 3
   },
   {
     "md5": "f62fffc71c0127a9ad64fc036f402848",
@@ -4617,7 +5539,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "9f7158eeafe2043ec28b6e8404498b64",
@@ -4627,7 +5551,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 30,
+    "chart_difficulty": 2
   },
   {
     "md5": "3815c9191dbb42a0b92dc67f4093753f",
@@ -4637,7 +5563,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "3b822b4b79b1f18b3da69281d5348cac",
@@ -4647,7 +5575,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "562308fb53613a8baf25784394409709",
@@ -4657,7 +5587,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "9e68e354c848608a73f6b4a089b1d5b2",
@@ -4667,7 +5599,9 @@
     "artist": "Sakamiya feat.小宮真央",
     "subartist": "mov:わっふゑ img:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "176eda616ae9d87692895cf30a7631d4",
@@ -4677,7 +5611,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "55adbcbb97ad332fb135434a7cd08637",
@@ -4687,7 +5623,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "addb36647dad8cc8e3e1b33846467fdf",
@@ -4697,7 +5635,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e4241831e9d8c7312ca593e63fb7eed1",
@@ -4707,7 +5647,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "e0e380bc80a8c1ff305330b82b5132fc",
@@ -4717,7 +5659,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "4d85e8d4e8af26091e0257fde0699897",
@@ -4727,7 +5671,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "51e9f18ff0951d7be451804c55127d92",
@@ -4737,7 +5683,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "c7eb8d96ffdb1978a44f636061f24fe9",
@@ -4747,7 +5695,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "74619d8216f1efcc9aaf040ad2ebd4f3",
@@ -4757,7 +5707,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "bc905963049d627acf4619b136006783",
@@ -4767,7 +5719,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "ea06683848f89332ae7a6ef38345178f",
@@ -4777,7 +5731,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "eba48f0f1f8bc57b1c6a586fd7e4cdfd",
@@ -4787,7 +5743,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "8c0c8f4afe6865c77abbdee96c02ed1e",
@@ -4797,7 +5755,9 @@
     "artist": "シア(CV:mia)×レイナ(CV:mirina) / Music:Sakamiya",
     "subartist": "mov:hrchem notes:7stan",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "ae1767941fe10a2dcfb20f185fb4e4bc",
@@ -4807,7 +5767,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "de1a3484d11c8323d610e400ab929374",
@@ -4817,7 +5779,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "8338bc212516df300a2c35a3c70381e0",
@@ -4827,7 +5791,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "f07710d3ceb9d2a8bb0cdaee1d7da1f2",
@@ -4837,7 +5803,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "774c555b16bb221cb8c13b50bff966a2",
@@ -4847,7 +5815,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "70599e5f72e8321789fa259885a4bf63",
@@ -4857,7 +5827,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 3
   },
   {
     "md5": "801eb5b642a4e62be7b61d168cedf6bf",
@@ -4867,7 +5839,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "fcc21501e2adbe46e09d7a4e70fd04ce",
@@ -4877,7 +5851,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "314fc93a4fac037204afee28ccac26ec",
@@ -4887,7 +5863,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "6d987d7fe60b09845e2a6f52a1ea828a",
@@ -4897,7 +5875,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "0283325226878bf68da1823991831049",
@@ -4907,7 +5887,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "c0da1d51de133a6d1d2f8b5dd43ed161",
@@ -4917,7 +5899,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "d9623d8672c96362d4fd657da0d428f1",
@@ -4927,7 +5911,9 @@
     "artist": "Arr:Sakamiya",
     "subartist": "img:しょーる:liberta",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 7
   },
   {
     "md5": "2801ffae73a6177fe2231272bef7fa1e",
@@ -4937,7 +5923,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "a00c1d829cc497733bf410792e0faa78",
@@ -4947,7 +5935,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "87751f1c0be7d55ea06f2d645aafc7a8",
@@ -4957,7 +5947,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "2db2aec87d4c506c83b232bc39e89f1f",
@@ -4967,7 +5959,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "baa4f42eeee1d8078dbf7fc50756eee3",
@@ -4977,7 +5971,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "3fde35f8d07742a01b337f8baf8bd741",
@@ -4987,7 +5983,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "2353131fb7c676739c193b5f0e1b1d9f",
@@ -4997,7 +5995,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "8e54d3489bdbd3b7cb81aafc2038f01d",
@@ -5007,7 +6007,9 @@
     "artist": "RMX:Sakamiya",
     "subartist": "org:Tiyes Sink feat.川名唯",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "7151d2df881667d15afe8f2acd5bdf8d",
@@ -5017,7 +6019,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "de3adb03672b5274d91908dd3aa912dc",
@@ -5027,7 +6031,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "4a2718da4339c59705e64cff35bd2509",
@@ -5037,7 +6043,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "a8a84b1033f0fffa04c6760448bd25f7",
@@ -5047,7 +6055,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "7a9e1a818cb07c49ef12f220f3facf95",
@@ -5057,7 +6067,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "63d3238dfad9974aa02cca19d7077577",
@@ -5067,7 +6079,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:circussion",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "c2537e7758d63dd7e43660306d6e51b3",
@@ -5077,7 +6091,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "540f4c461adfd0c4ca4b96907ce31ae7",
@@ -5087,7 +6103,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f82b514691f958b3caa09755fb3fe461",
@@ -5097,7 +6115,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "337b438f8cedde5385e89d17c60c69eb",
@@ -5107,7 +6127,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "cc1b6610e645d6e30cee5f108cf73b43",
@@ -5117,7 +6139,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら note:REX",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "549ec0735b3a463dbc308399bef83cf3",
@@ -5127,7 +6151,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "4e9e2376f57290e0ef4d453c0c691b91",
@@ -5137,7 +6163,9 @@
     "artist": "Sakamiya feat.a-m",
     "subartist": "img:おさら notes: BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 22,
+    "chart_difficulty": 5
   },
   {
     "md5": "1ecc5e88b5495897a70fed6e9c0a3c86",
@@ -5147,7 +6175,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f69ed112f372d793c3de929fd69bf968",
@@ -5157,7 +6187,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "ec186de8874fe26a278cb199f5a063ad",
@@ -5167,7 +6199,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "da3a403ddcf1450764faacb0b8ed074f",
@@ -5177,7 +6211,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "cf7d570aef0147388150c436d36d93a1",
@@ -5187,7 +6223,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "bd87c82836f147072fcf5cd4f02c28d2",
@@ -5197,7 +6235,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "b7b5feee6800ccaa72bfc853e07f8c45",
@@ -5207,7 +6247,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "ec854f702767690dced0afaafbbda002",
@@ -5217,7 +6259,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "54c36c65e4648334f38f5e238ada7842",
@@ -5227,7 +6271,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 5
   },
   {
     "md5": "17c80b64432022d320b8d2a5bba8ec26",
@@ -5237,7 +6283,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "c586a7b2ce60113612dcc58dbecd1476",
@@ -5247,7 +6295,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "90f9b860616b3af567da4a93b83bce43",
@@ -5257,7 +6307,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "img:hrchem lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 16,
+    "chart_difficulty": 5
   },
   {
     "md5": "fe8d34283d4888294a8086f5e81c5d67",
@@ -5267,7 +6319,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "1fa6eea7b87cc19d13d1f4cc91098945",
@@ -5277,7 +6331,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "995bf277bda8aa65c4dad0720f0abb47",
@@ -5287,7 +6343,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "c6a71d3a6d1311146aeff1b371c8fc19",
@@ -5297,7 +6355,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "7444122f93f15bfc1a09b2b2692f5499",
@@ -5307,7 +6367,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "74a24bcfc6bf755e0bb4d842d702c6ad",
@@ -5317,7 +6379,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 32,
+    "chart_difficulty": 2
   },
   {
     "md5": "eb451f48f976dfc87cb88486a873a742",
@@ -5327,7 +6391,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 42,
+    "chart_difficulty": 3
   },
   {
     "md5": "fffd5534dcc1581acbc9892e98bb71a6",
@@ -5337,7 +6403,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 46,
+    "chart_difficulty": 4
   },
   {
     "md5": "86a715eda1ee9fbd365a405c22486340",
@@ -5347,7 +6415,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 5
   },
   {
     "md5": "f87cf34196cafefb99cd9c4208461edb",
@@ -5357,7 +6427,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "edf3b1ea6f50db56f0e60e6424d6be06",
@@ -5367,7 +6439,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "5a3d872dcaae9b644d0cd06388c7124a",
@@ -5377,7 +6451,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura ntoes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "24fcc88f1fa52b8e4b1fb7ed6b5cc6b3",
@@ -5387,7 +6463,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 1
   },
   {
     "md5": "86afd1012c06c1a3d28de20eeff6d067",
@@ -5397,7 +6475,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "7a1e7e9ae90fd61256291072aabfe54c",
@@ -5407,7 +6487,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "4bb141a9fa6fcee63f8814e686310d84",
@@ -5417,7 +6499,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "022ed61d7efcf1f0fcd2931b81703b4a",
@@ -5427,7 +6511,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "fbd038dac2047b6f277a64c605f0ca57",
@@ -5437,7 +6523,9 @@
     "artist": "Sakamiya feat.遊左 未",
     "subartist": "img:moyura",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 18,
+    "chart_difficulty": 5
   },
   {
     "md5": "6fbd54e3a1e0b948365b825ffc7772e6",
@@ -5447,7 +6535,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "8ce609e941493ae97f24644b43dc6ecc",
@@ -5457,7 +6547,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 3
   },
   {
     "md5": "9a20aabea034ae0f9b21610e118c17d7",
@@ -5467,7 +6559,9 @@
     "artist": "Sakamiya feat.北宮",
     "subartist": "img:uni Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "f656bb2df75a4653efbf0c7b6b8e6ffb",
@@ -5477,7 +6571,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6259cb8aaacae2964d0d96aff14ae981",
@@ -5487,7 +6583,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "2ddb97f3e8b1441dfd1e0fab275530e4",
@@ -5497,7 +6595,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "ddde92e215acb2abdce3d0ede1acc799",
@@ -5507,7 +6607,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 17,
+    "chart_difficulty": 5
   },
   {
     "md5": "dfcddc1c7765368318028ec5380e1641",
@@ -5517,7 +6619,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "87bc15c0266e521335589840ff374bd0",
@@ -5527,7 +6631,9 @@
     "artist": "Sakamiya",
     "subartist": "Lunon&Tamaki :The Peanuts",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "efed320d3a20c4faf6d805c99bf3b940",
@@ -5537,7 +6643,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "be663f70f5be4e005b55c9ea6b15cdf1",
@@ -5547,7 +6655,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "7608b1665a8692ab8ea1c173d7ad4baa",
@@ -5557,7 +6667,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "4c7fedd1e66de051730e427006099330",
@@ -5567,7 +6679,9 @@
     "artist": "------",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "da2104f5adc17b4952289828f03b8cc8",
@@ -5577,7 +6691,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "68831a825b4ec81fc4c52d65dbfb8087",
@@ -5587,7 +6703,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "2e62d8701d490714ca64b68a2bdbd9f8",
@@ -5597,7 +6715,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 4
   },
   {
     "md5": "d57a9fcc7b33242545516ef49fc9de4c",
@@ -5607,7 +6727,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "7bbb8b02cd464d9532c64ad95b4ae8f0",
@@ -5617,7 +6739,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "38b732363612cbc878cebca73d8226c4",
@@ -5627,7 +6751,9 @@
     "artist": "Sakamiya feat.mirina",
     "subartist": "Lyric:mirina img:clear notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "c2423b9cc31c8fff1370b976c11e00b1",
@@ -5637,7 +6763,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "f4fe304d5caeacfc52e9dd258600b5f6",
@@ -5647,7 +6775,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "eac28d2fd978c7a3afdf24756ae21ab7",
@@ -5657,7 +6787,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "acb96f0ab685a45b7cbe845544fff8cb",
@@ -5667,7 +6799,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO img:空読無 白眼",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "1786e132ed051d9eebf264430b7b9aaf",
@@ -5677,7 +6811,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   },
   {
     "md5": "1f3acd46684282e291023437d3ab6d81",
@@ -5687,7 +6823,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "cb3dc8413fe7cc8e29d8c42e4cac78b6",
@@ -5697,7 +6835,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 4
   },
   {
     "md5": "36c723d747049227d0dc18ef7c1080e0",
@@ -5707,7 +6847,9 @@
     "artist": "Arr:Sakamiya feat.しろくま",
     "subartist": "img:かな",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "60af6410e572521626238b8833ebc459",
@@ -5717,7 +6859,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "f8a858b8df5367218dc96a60663a584e",
@@ -5727,7 +6871,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "d55fcd527f03beb72b6b8ebdf2440047",
@@ -5737,7 +6883,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "2d02dad473d813a0602a6cd85d85c9b5",
@@ -5747,7 +6895,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:BAECON",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "76e31b330b2d19edc259bc76e80e5745",
@@ -5757,7 +6907,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "ed86ed68b82f743afc51ce48160c37ae",
@@ -5767,7 +6919,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 45,
+    "chart_difficulty": 4
   },
   {
     "md5": "b6366ff0b227fa928e5b12d9539b8e49",
@@ -5777,7 +6931,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 40,
+    "chart_difficulty": 3
   },
   {
     "md5": "6b43898ad4d397b3d82ff2ae778a9cde",
@@ -5787,7 +6943,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "03677286370d20f90a0c0ba479976d54",
@@ -5797,7 +6955,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ　note:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 5
   },
   {
     "md5": "21076f4cf1738e452f55ea18fe2e88c2",
@@ -5807,7 +6967,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6705544b13fcf324095963e6d0bf5ab4",
@@ -5817,7 +6979,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 2
   },
   {
     "md5": "cdf8fdb03138f15cef54a5f6666931e2",
@@ -5827,7 +6991,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:くわぎう img:じゃっこ notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "3b6b8c056e335690acc4d637f83c6113",
@@ -5837,7 +7003,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "92a284aa33c3b68ed9e366668fe5b635",
@@ -5847,7 +7015,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "b773fcfcbcdc324eec3944226dd37f85",
@@ -5857,7 +7027,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 4
   },
   {
     "md5": "6a6c493cd1ea5260500b314211a9913e",
@@ -5867,7 +7039,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:mirina notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "15b9da504bab6ee1cf7122fe8e36a08e",
@@ -5877,7 +7051,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "c10b45c6731a15d209a1b1b2d88a0335",
@@ -5887,7 +7063,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "4a929dcfe72abf9acbce3b6c2a1a66be",
@@ -5897,7 +7075,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "7f23ee948542609d9a150937bac9cf81",
@@ -5907,7 +7087,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "3769518692a7a8acea1caa9b9aed756b",
@@ -5917,7 +7099,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "6927a4befffea387261819052c9873c8",
@@ -5927,7 +7111,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 1
   },
   {
     "md5": "1da256cf1b028eb226edd7f40eca0690",
@@ -5937,7 +7123,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "c5cd1e73e6a9d03ad4f8f0935b1a79c3",
@@ -5947,7 +7135,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 43,
+    "chart_difficulty": 3
   },
   {
     "md5": "9574bb68689f1d2bb33cfb79613a609b",
@@ -5957,7 +7147,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 28,
+    "chart_difficulty": 2
   },
   {
     "md5": "184a389dd2f44933a089c32f7e874ee3",
@@ -5967,7 +7159,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "17bf85d0828702b84f770538f8592a2d",
@@ -5977,7 +7171,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "230845b3cdd775a0f40c5bf98c87c474",
@@ -5987,7 +7183,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "4fe227a47fe9090ea3d9be13d7e8ba0f",
@@ -5997,7 +7195,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "d1792df50d982d90491c67c22528da8b",
@@ -6007,7 +7207,9 @@
     "artist": "Sakamiya feat.一花",
     "subartist": "mov:tolz img:ttv notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "6bf6a2f71a1ff91ca683a2ee29079913",
@@ -6017,7 +7219,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 1,
+    "chart_difficulty": 2
   },
   {
     "md5": "312e6f34f250cdbc1b1895946c80c9b4",
@@ -6027,7 +7231,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 3
   },
   {
     "md5": "b779668ca821a049cc863ba726d30e92",
@@ -6037,7 +7243,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 4
   },
   {
     "md5": "46eec1be2ed204b507a205c86899d9bc",
@@ -6047,7 +7255,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 5
   },
   {
     "md5": "d6992c5eedc7555c00b5ce6dfa27e0fb",
@@ -6057,7 +7267,9 @@
     "artist": "Sakamiya feat.toz",
     "subartist": "img:ぬけみち Lyrics:uoru",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 15,
+    "chart_difficulty": 5
   },
   {
     "md5": "9ee5524e4ed8a3e7033b4de1fedc35fd",
@@ -6067,7 +7279,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "7152c7f6a1cbfb901c41b902a0abc68f",
@@ -6077,7 +7291,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "946619d9552d9f77514209697131c68f",
@@ -6087,7 +7303,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "fc393032e77d387d9aa5ef5ff8b52452",
@@ -6097,7 +7315,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "d2cbea16f5a94f6dcb32ba9ef265ea23",
@@ -6107,7 +7327,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "99c0250258b2d1ea847933f708fe2098",
@@ -6117,7 +7339,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 47,
+    "chart_difficulty": 4
   },
   {
     "md5": "1ee456d8564b29402dcaf669ba142e68",
@@ -6127,7 +7351,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 39,
+    "chart_difficulty": 3
   },
   {
     "md5": "290718caa7a5ab5f22860a9003fbfbc4",
@@ -6137,7 +7363,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 5
   },
   {
     "md5": "0139e0d772872b5dcf28b4b3a569e3e2",
@@ -6147,7 +7375,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 29,
+    "chart_difficulty": 2
   },
   {
     "md5": "14a1172f13f22f8dd2e8bf5afa275a14",
@@ -6157,7 +7387,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "e2720dca2efca4f630b28409cacb65fc",
@@ -6167,7 +7399,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "909d6a6c7f4085091387d63c110be125",
@@ -6177,7 +7411,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "mov:hx notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "879c144fcedbe05b80233a55b8546008",
@@ -6187,7 +7423,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "6225436769251b96ef8c142b72004b5e",
@@ -6197,7 +7435,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 1
   },
   {
     "md5": "0a63132b2c2c27d67a9bb8d519e232fb",
@@ -6207,7 +7447,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "05fb1c337290d057e5c4a46e8b9ea102",
@@ -6217,7 +7459,9 @@
     "artist": "Sakamiya feat.前野",
     "subartist": "img:きの Lyrics:girlsaid",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "3deae63334e2efcd1d1251591482a48b",
@@ -6227,7 +7471,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "87c040a4993fa22d3430dc97ab886fcc",
@@ -6237,7 +7483,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 3
   },
   {
     "md5": "98d001d5936fbac50f7e51ac1c4ea9e6",
@@ -6247,7 +7495,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "97d19090d007cec214db095f5e498c83",
@@ -6257,7 +7507,9 @@
     "artist": "Superbia",
     "subartist": "identity:Sakamiya img:ましこ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 5
   },
   {
     "md5": "aa43e400c730433e86e8d0d65a9055c7",
@@ -6267,7 +7519,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "4135e1ab5681e6237d55db98d8a3b988",
@@ -6277,7 +7531,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "795c3dee0080e43c1ed98d1e53de70fc",
@@ -6287,7 +7543,9 @@
     "artist": "Superbia",
     "subartist": "",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "76938cf92c0bab2de73dad5ea1576fef",
@@ -6297,7 +7555,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 4
   },
   {
     "md5": "f85ce8f259cc9673a1420f975aa63ad6",
@@ -6307,7 +7567,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "e58208a3e644806de109fec164f68575",
@@ -6317,7 +7579,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:OSR",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 2
   },
   {
     "md5": "e40edd933cd19db304ce804cf3260f04",
@@ -6327,7 +7591,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 53,
+    "chart_difficulty": 4
   },
   {
     "md5": "72d34d249d876168eaf9ebaf67e6361f",
@@ -6337,7 +7603,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 50,
+    "chart_difficulty": 3
   },
   {
     "md5": "b3bf2fa976e39314cc93b592991ec727",
@@ -6347,7 +7615,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 48,
+    "chart_difficulty": 2
   },
   {
     "md5": "f045fc80eec111998ed6675e4549f42b",
@@ -6357,7 +7627,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 4
   },
   {
     "md5": "c5552794054ef928b45e5c2746e1a70b",
@@ -6367,7 +7639,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 1
   },
   {
     "md5": "ad619f96a835f77f433d3d41033e3648",
@@ -6377,7 +7651,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 1
   },
   {
     "md5": "93bfccb37e1a3b1f44bc341383d08eb6",
@@ -6387,7 +7663,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 22,
+    "chart_difficulty": 3
   },
   {
     "md5": "7c58f39a3c257c585e52fc9820c0070c",
@@ -6397,7 +7675,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 2
   },
   {
     "md5": "54f04730ae68476c195c8699eae1d1d6",
@@ -6407,7 +7687,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 34,
+    "chart_difficulty": 2
   },
   {
     "md5": "7388a54b8b6c68620354cffe95c14db6",
@@ -6417,7 +7699,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 44,
+    "chart_difficulty": 3
   },
   {
     "md5": "07dee9e546ee9906f7c9ed6f1dad90bd",
@@ -6427,7 +7711,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 49,
+    "chart_difficulty": 4
   },
   {
     "md5": "d944c636db0ebf2e662c4759c277c41c",
@@ -6437,7 +7723,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:まてぃ",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 52,
+    "chart_difficulty": 5
   },
   {
     "md5": "90c353a2937ba298dc5331627701eb08",
@@ -6447,7 +7735,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 6,
+    "chart_difficulty": 2
   },
   {
     "md5": "b7fef2de30a442d29403707bd52f05c5",
@@ -6457,7 +7747,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "919fe5b669842e2beac98653e42872e5",
@@ -6467,7 +7759,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "ac559e0313958efa91bb1eed551d7d42",
@@ -6477,7 +7771,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 3,
+    "chart_difficulty": 1
   },
   {
     "md5": "1c9ce3d3b3a9e3ba500eba1e6d2632bf",
@@ -6487,7 +7783,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "f44d591fa9184ed707dba381a1685d66",
@@ -6497,7 +7795,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 2
   },
   {
     "md5": "477167b55aff10078a507bf76a9ea097",
@@ -6507,7 +7807,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "b2be65bc1ddab7809623ec02bbba8a60",
@@ -6517,7 +7819,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "5a24a50b3206d86b77a1a29f8e01cf7e",
@@ -6527,7 +7831,9 @@
     "artist": "さかみりと",
     "subartist": "img:しぐれぷに子 notes:ばえこん",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 5
   },
   {
     "md5": "61a56b8de2178aca613b620efde7ef2e",
@@ -6537,7 +7843,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 1
   },
   {
     "md5": "a0b1fde43638da2f62878c7d1f92f019",
@@ -6547,7 +7855,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 obj:ゆびでら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 10,
+    "chart_difficulty": 2
   },
   {
     "md5": "96f90c790fd2a361557b46554328d220",
@@ -6557,7 +7867,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 7,
+    "chart_difficulty": 2
   },
   {
     "md5": "d4367e18b95e3c24e14353929c1ed7a1",
@@ -6567,7 +7879,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 3
   },
   {
     "md5": "89d522764491170a2f8c669e8407ac79",
@@ -6577,7 +7891,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 3
   },
   {
     "md5": "8a68ce555f4b40322afc85136e255bed",
@@ -6587,7 +7903,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "c64f928f66a9b6d147d133dcf6117319",
@@ -6597,7 +7915,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 13,
+    "chart_difficulty": 4
   },
   {
     "md5": "29af1dd88c026f4f7fa03c3f571669eb",
@@ -6607,7 +7927,9 @@
     "artist": "さかみりな",
     "subartist": "img:おまる氏 notes:おさら",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "de178963fd26138c688d80c3339a8ac9",
@@ -6617,7 +7939,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 12,
+    "chart_difficulty": 4
   },
   {
     "md5": "1538b62d26cdab973ff647020c6a6fa7",
@@ -6627,7 +7951,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 9,
+    "chart_difficulty": 3
   },
   {
     "md5": "6395c26cbe0ac3cfd912ec7a4975e2d7",
@@ -6637,7 +7963,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:有賀 澪",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 4,
+    "chart_difficulty": 2
   },
   {
     "md5": "4ac1550af87950886c13c6332ea54e0a",
@@ -6647,7 +7975,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 11,
+    "chart_difficulty": 4
   },
   {
     "md5": "ca55aec962046adeb3e609455af52f53",
@@ -6657,7 +7987,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 3
   },
   {
     "md5": "c7c5bc4ea5f507bb96aa2d2518efb385",
@@ -6667,7 +7999,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 14,
+    "chart_difficulty": 5
   },
   {
     "md5": "da88169cad3b3bcb33fe4aa99fd9a627",
@@ -6677,7 +8011,9 @@
     "artist": "有賀 澪",
     "subartist": "BGA:しらたき Illust:Cleome obj:伊佐奈 瑠璃",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 2
   },
   {
     "md5": "f32043917ef3c6e6f8e74be689bc4243",
@@ -6687,7 +8023,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 8,
+    "chart_difficulty": 4
   },
   {
     "md5": "f8ea1de4fcd352db99e4d10c1db4bd23",
@@ -6697,7 +8035,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 5,
+    "chart_difficulty": 3
   },
   {
     "md5": "6e8fd1813d7faac2f66bbbfe74b0a25c",
@@ -6707,7 +8047,9 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO / obj:Criyajuh",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 24,
+    "chart_difficulty": 5
   },
   {
     "md5": "a18611f7f5ae815ff0d1c7f657f83ff6",
@@ -6717,6 +8059,8 @@
     "artist": "Sakamiya feat.葵一花",
     "subartist": "Lyrics:SHiKiHO",
     "comment": "",
-    "level": "Sakamiya"
+    "level": "Sakamiya",
+    "chart_level": 2,
+    "chart_difficulty": 2
   }
 ]

@@ -20,6 +20,11 @@
                 table-layout: fixed;
                 width: 100%;
             }
+
+            #table_int th {
+                vertical-align: middle;
+            }
+
             #table_int td {
                 overflow-wrap: anywhere;
                 word-break: normal;
@@ -47,6 +52,18 @@
             /* 展開時のアイコン（下向きに90度回転） */
             .level-header.expanded td::before {
                 transform: translateY(-50%) rotate(90deg);
+            }
+
+            /* 行クラスを元に、先頭tdの左端へ内側の影(inset)を使って線を描画する */
+            .row-difficulty-1 > td:first-child { box-shadow: inset 5px 0 0 0 #00ff0088; } /* beginner 緑 */
+            .row-difficulty-2 > td:first-child { box-shadow: inset 5px 0 0 0 #0000ff88; } /* normal   青 */
+            .row-difficulty-3 > td:first-child { box-shadow: inset 5px 0 0 0 #ffa50088; } /* hyper    オレンジ */
+            .row-difficulty-4 > td:first-child { box-shadow: inset 5px 0 0 0 #ff000088; } /* another  赤 */
+            .row-difficulty-5 > td:first-child { box-shadow: inset 5px 0 0 0 #cc00ff88; } /* insane   紫 */
+
+            .text-transparent {
+                color: transparent;
+                user-select: none;
             }
         </style>
     </head>
