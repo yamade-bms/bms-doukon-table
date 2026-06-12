@@ -10,7 +10,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1ba770fbdef09119d9c74be0f0237389",
@@ -23,7 +23,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "518474b69056deeac37367cb6b777c50",
@@ -36,7 +36,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ecd02ed8379a9ae3ccdae40049dcb6a7",
@@ -49,7 +49,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1d70f8b6c7e791e2b2a493371507a413",
@@ -62,7 +62,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3112e2013100d939cc99b3b5bf67252d",
@@ -75,7 +75,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "672d87e7916bd6bf52669164b391dd91",
@@ -88,7 +88,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "174d9111cd95a54708c50fb279c8c0ea",
@@ -101,7 +101,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "74c2cc0bb5476c714cbe9c4296026b88",
@@ -114,7 +114,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": "",
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a3135e90fa91d1e35c3117c01d1a2c03",
@@ -127,7 +127,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "af6b12187316ac73cf4993baf39b0f22",
@@ -140,7 +140,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": "",
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d6daa18026765c4bf12b502da9f077cd",
@@ -153,7 +153,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dd4090c6853aebb09c788144b629510c",
@@ -166,7 +166,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "69c3918dd51d2faf4425b5ff30ad9598",
@@ -179,7 +179,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0aeebc93d3f62a661128366d94437082",
@@ -192,7 +192,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": "",
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1901bed0619caf82526bff1b15966ea8",
@@ -205,7 +205,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": "",
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "578f0d12c3f853e1c5e6c4b0b344feb5",
@@ -218,7 +218,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": "",
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "20079c6f056873266e2f773295ed64ee",
@@ -231,7 +231,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4a35e0f57760052e8fd4e3ae33b2b13a",
@@ -244,7 +244,7 @@
     "level": "nmk",
     "chart_level": 0,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "90d1523db1341aa5b5697cf100194ab5",
@@ -257,7 +257,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "557026ae51b96e6b5e39c528dec00800",
@@ -270,7 +270,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1617301e64ef37d2e180e8b7c85ce11c",
@@ -283,7 +283,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "203ea4295edde9a16408b67ceaf6871c",
@@ -296,7 +296,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "62d8a09fe8a79af59eb178f8182aef78",
@@ -309,7 +309,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "76e5f9dc38547ff50bb322c39bca0dcf",
@@ -322,7 +322,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7a54aa61cae01ab1a7296e8555714bb9",
@@ -335,7 +335,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c0d988f0872e42721ede250ae80098fe",
@@ -348,7 +348,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "39cc3f0cc74617e7a40c138f23d50cfc",
@@ -361,7 +361,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "56185f69a0d051546014e737d2d94efb",
@@ -374,7 +374,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c7a1965b71d415e5935ad8aa2375d52f",
@@ -387,7 +387,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2f4609a8f86f5d7d15c88ea1bf993687",
@@ -400,7 +400,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5ffb14da7597ae7088343a4d69bfa202",
@@ -413,7 +413,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a1982c525abc6cde7926f647c56efa8a",
@@ -426,7 +426,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0e668ba11589e09180f6fbe0aeb8d077",
@@ -439,7 +439,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1c57977ad2e85b82365f2b2ea20bbc0b",
@@ -452,7 +452,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5dec690c3eb4857d7e01352c60cd589c",
@@ -465,7 +465,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "693b7a63a91f9304ae26e3a80172636e",
@@ -478,7 +478,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "180d8babdfd3ef6f0066d27ab09b92b3",
@@ -491,7 +491,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "513dab2fc3ff76827f28429f39df62f6",
@@ -504,7 +504,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1de4e3d516ad14275d4c2e427641b001",
@@ -517,7 +517,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7b8f6b8c864e2f1428c4a3982c30bb36",
@@ -530,7 +530,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "90b04597a737cea21891e89cf14ad192",
@@ -543,7 +543,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "97713192c22a8e0b89573ec2d62a0f80",
@@ -556,7 +556,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b111b994a4625c853e274b8c1cbe7c8a",
@@ -569,7 +569,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f28f70e7b1e8df6dcc6e0a86e96ddf3f",
@@ -582,7 +582,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2ba214cceccd8360aa9798364bb8bee0",
@@ -595,7 +595,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4e72d2213cd1c350b0158f620ae3c8f9",
@@ -608,7 +608,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7d207ed6c3fa1a7783f72b95597ba2f6",
@@ -621,7 +621,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b314710acc1b28268e58c04c1e931e50",
@@ -634,7 +634,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1bdb503c675824086bbdb033ad0d9756",
@@ -647,7 +647,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "98a7940f7f4392261e59101381069b8f",
@@ -660,7 +660,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ed587bcb703e3835be09e7f767dee7d7",
@@ -673,7 +673,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c6bda046be79f2a12cdf71c0aaf325e9",
@@ -686,7 +686,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0dc520ae32ddc3731aa658642deb9ee4",
@@ -699,7 +699,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "25fd5fcd74ea56921af3a082f4d02edb",
@@ -712,7 +712,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "48ea6f83fd82ef51491efcbace0e160b",
@@ -725,7 +725,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3f785e56a4759534910cf82ba71a3336",
@@ -738,7 +738,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6075ada29bdff66e74d6435844fa07ba",
@@ -751,7 +751,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bcb9b26d8394228379ad63874081673d",
@@ -764,7 +764,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c22bad506d15ad52deb0d15c91262a3f",
@@ -777,7 +777,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "59ac6a97f61fdb5941a35a53e93f5533",
@@ -790,7 +790,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "109963650f2723a9893032f2d3a3edcf",
@@ -803,7 +803,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9fae9ca297e05b51882f65cde7928737",
@@ -816,7 +816,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0a02b91ac5dcfc180670c05aa6a1ae73",
@@ -829,7 +829,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8ff58cc68eedbe4c5dbd2ed39510da59",
@@ -842,7 +842,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "eca9725013ba011dfe59107c357d4749",
@@ -855,7 +855,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "72da19c5a17f09bdf5f6e482b0a4e45a",
@@ -868,7 +868,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3f5b6d56074c8712f8405fc9cbfb5213",
@@ -881,7 +881,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "593f874b0f2342fd107887a17cac981e",
@@ -894,7 +894,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8c4555e7a44f12d9a4dd8f09fedd6d25",
@@ -907,7 +907,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d81e78e43464791afea99f939e12dc8f",
@@ -920,7 +920,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a94b1768b8eda7cb6804b0f5214b1b56",
@@ -933,7 +933,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "87bd90446b01fc344f6e17e38e5312ab",
@@ -946,7 +946,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "58a73f727aa13247c896fe66ef37911d",
@@ -959,7 +959,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c55cfb20d7b3037a32723f9eb0f51e44",
@@ -972,7 +972,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "75e2b3433e1859ce988eeb562b4e9581",
@@ -985,7 +985,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "58964ced68ee912e2fc39d3e74fed13d",
@@ -998,7 +998,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e340b0d57c6fb2df05cf932b9fd92146",
@@ -1011,7 +1011,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "83ac94606801e9818a9821e7c718486b",
@@ -1024,7 +1024,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "27a00218da6cf7598405414f9c5d26bc",
@@ -1037,7 +1037,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dc52cda1f79ac3eafbfa6cddab93ec88",
@@ -1050,7 +1050,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b0cce2c79fbe4cc4f30506d097ef86ee",
@@ -1063,7 +1063,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0175077982e2a7248abbe36c7e5e76f0",
@@ -1076,7 +1076,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "09a2fa3ddc9e47cd8d65ea90e2efd785",
@@ -1089,7 +1089,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "64c885054a88bb472b6f332db5706050",
@@ -1102,7 +1102,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "538036587db5acd882ee910fd6a6ebc9",
@@ -1115,7 +1115,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "29b342c080c2e32607009584b3a7cb01",
@@ -1128,7 +1128,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "80cd687caff5e949bb817268e5ebf081",
@@ -1141,7 +1141,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9fb06a629c1dc3323107a11671665910",
@@ -1154,7 +1154,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "793e20460c1d60d2dca0c10a91890f0f",
@@ -1167,7 +1167,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "00efcc74dff208a278712689ebd205e0",
@@ -1180,7 +1180,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d431f5779ff511480101f4612cebbfd4",
@@ -1193,7 +1193,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8fdf3acf26471a55058185dd491d4f1e",
@@ -1206,7 +1206,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6acec7da20198db6228f033c531c4a73",
@@ -1219,7 +1219,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dc0cf85c754713228d98b6a979ec384b",
@@ -1232,7 +1232,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "88a61723caf7900b7a957028fd1a1cb2",
@@ -1245,7 +1245,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1c495634856f4d752ffade0bb8cce9a1",
@@ -1258,7 +1258,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "352063617a3a3bea91c1a282c3310c74",
@@ -1271,7 +1271,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e1d0b8a251cdb00d82c58c54413b657e",
@@ -1284,7 +1284,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "15b2c6572793fdce78aaba78e8e69ea5",
@@ -1297,7 +1297,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "883a4470af0cfc86c02c9aa33b1dfc6c",
@@ -1310,7 +1310,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7164fa1c89eb56b9aadddf95e48ab7bc",
@@ -1323,7 +1323,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4446b28942ba23dff8565cbf745cf518",
@@ -1336,7 +1336,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "492ea4da78ef7c984b0fb75af51faa13",
@@ -1349,7 +1349,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "119412ea3581c0ee7ac97037766cd9ae",
@@ -1362,7 +1362,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2ebdeb88aca7c6c1ffdc84a501bf5b05",
@@ -1375,7 +1375,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "287d8e3bff3878f75eb91d491e7bac9f",
@@ -1388,7 +1388,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "133fcbe05d550ae5fba1ce82fecd3f91",
@@ -1401,7 +1401,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "baacbd42c0e97480dd85829320fd3770",
@@ -1414,7 +1414,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c1e87c7c434a165f10bd4e77c2cac26a",
@@ -1427,7 +1427,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0095ae48437cc8c7bec342b8494f71bc",
@@ -1440,7 +1440,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e046967da88223db5049f7f450dbd318",
@@ -1453,7 +1453,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "351f2e6183992318a7af2e596364313f",
@@ -1466,7 +1466,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e0db2c85379f3b9947f8d05cf32fdcec",
@@ -1479,7 +1479,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0c459fd26648274b5e0da7ddfea3a6ac",
@@ -1492,7 +1492,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2401322a2ef6cc71c7ada97c79a202bd",
@@ -1505,7 +1505,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "066a6186365ee9ee32dcdc5d976c08f5",
@@ -1518,7 +1518,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "711006f06cb07a40e4dc6f0afaa8095c",
@@ -1531,7 +1531,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "13c2b5ad861169cb8960103c6fd48200",
@@ -1544,7 +1544,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e7206b52996c1879e836006189d6fa46",
@@ -1557,7 +1557,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0fa9b8771bbf6538cad759ea01950509",
@@ -1570,7 +1570,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "829713f7901d325013db92c24fa66b23",
@@ -1583,7 +1583,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "30c5d67255a2799653b403e48fa0790c",
@@ -1596,7 +1596,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8f49a0a9b3d0e2ad5af72b6ccd16f83e",
@@ -1609,7 +1609,7 @@
     "level": "nmk",
     "chart_level": 0,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b7c4b2b39c5cc94883148c9020ef8a84",
@@ -1622,7 +1622,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8e17f96a8440ff15923bfe228409c9b6",
@@ -1635,7 +1635,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "59e5e7ec2c92f63b24cdbf198b57d2db",
@@ -1648,7 +1648,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bfac8aaa97b5a59bdb242d7cae2ce461",
@@ -1661,7 +1661,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3362e15401c3ccf879285ce982c5983e",
@@ -1674,7 +1674,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "cbe2057efbc80b98eca2b50eb51ef1c3",
@@ -1687,7 +1687,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3bf39cecb1f4c979d614845be0a9df4c",
@@ -1700,7 +1700,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "922475413c0ec4f5b000d74b7be75c5f",
@@ -1713,7 +1713,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1c5608eab19a51af4a1521761c3de2fb",
@@ -1726,7 +1726,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "27db517f36e376b07fee75b5bdb656af",
@@ -1739,7 +1739,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7ed1258a799acc19d5293bd3524395e5",
@@ -1752,7 +1752,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e377a8b8dabf13412f0fbd81380ed4c9",
@@ -1765,7 +1765,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5b0cce8b313f1316f4273538c561fa43",
@@ -1778,7 +1778,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2cf900763f3480f38e011b0ed8676b14",
@@ -1791,7 +1791,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "91702838e3ce17b33b9f07402bca23c7",
@@ -1804,7 +1804,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ee61f645c9e203329b61a3fee2e67242",
@@ -1817,7 +1817,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8590d66a2f55ae6ee9dcca3f559dd80e",
@@ -1830,7 +1830,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0890a98ec9d6863ec0df02e4d8172cc7",
@@ -1843,7 +1843,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d0e150a56e09c7f35fe24b7bcf503ac1",
@@ -1856,7 +1856,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "656b2c1ee09970e9c85be27bf38eb931",
@@ -1869,7 +1869,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ec35d6cd1001f2f3fc2665d7fc83892c",
@@ -1882,7 +1882,7 @@
     "level": "nmk",
     "chart_level": 13,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5786ea6547356848de22d5157c42f919",
@@ -1895,7 +1895,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9911fee304204b1beec1a35d24368262",
@@ -1908,7 +1908,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5b2ace3394f29b58958ced251af8b955",
@@ -1921,7 +1921,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8c1a3cc554b973cf88a2c35e1f059842",
@@ -1934,7 +1934,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b92d1184635b55e515631bc604a34067",
@@ -1947,7 +1947,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6f73e283639971a49f490c8e46c7758b",
@@ -1960,7 +1960,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c547b49feef51e6d143331c14752667d",
@@ -1973,7 +1973,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4eea57ab679b1b2daf7ed054edb5fa5f",
@@ -1986,7 +1986,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "af64aae1a8fe4372d45d7ec75e5d1fa7",
@@ -1999,7 +1999,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e607fa33fccf4667fff5deb6faaf3ea2",
@@ -2012,7 +2012,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4a6fcab0c8f14b17fd62a83feffc8653",
@@ -2025,7 +2025,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4b0e1f9ecd4ca532e9cc56f595056924",
@@ -2038,7 +2038,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "02754c33097e2839904a3f86f91b5946",
@@ -2051,7 +2051,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "562bd6d2c8b0395b46aacba534370311",
@@ -2064,7 +2064,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0d034ee2927bdfd773d379d39f669ede",
@@ -2077,7 +2077,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "117b7b6b7e4e16afd326809c5514d2b2",
@@ -2090,7 +2090,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "55627a3fa8ca24e3453ac9d035e50f06",
@@ -2103,7 +2103,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6898acb5d3cb140738ffd3fb0d5ab78e",
@@ -2116,7 +2116,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "774e65a5a36fa2f5074c18abf8c8ffac",
@@ -2129,7 +2129,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e1dfdaadc42eeb84c1832ab9bd7d9d80",
@@ -2142,7 +2142,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dfa55e66ccba643d3324acd147b9dbfc",
@@ -2155,7 +2155,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0c966d850e290dc1279c9cef1efd93f2",
@@ -2168,7 +2168,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "93555f667817e04fdb2fabef5868d01c",
@@ -2181,7 +2181,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d4111a9bddbafffbaaf8ec8a3518d359",
@@ -2194,7 +2194,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9e472f7682b33c118385f40d1e753e42",
@@ -2207,7 +2207,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "282a3075495fd26b068d8a0ecac3f10d",
@@ -2220,7 +2220,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "410568932cdcf293839148b3069535fb",
@@ -2233,7 +2233,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ae493b272e41b937a0c63006ac602b54",
@@ -2246,7 +2246,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0c3d1393c0957e2d10aeab0c1b681877",
@@ -2259,7 +2259,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f98969815904ab841bac6c890ba220f8",
@@ -2272,7 +2272,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ea9b894c937cd3cb346a70731a8aebd7",
@@ -2285,7 +2285,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "df2d054bccdc3c2cb20df47263bcdc62",
@@ -2298,7 +2298,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dd4c19f7012b7aaa533bcb7ae28dbe24",
@@ -2311,7 +2311,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8fafd5020031c0df6ca54b81c44c888d",
@@ -2324,7 +2324,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0b528db561febe5d776f53fe6f75a2ff",
@@ -2337,7 +2337,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a5993b88108598e8d2c950c9b1bdc4d1",
@@ -2350,7 +2350,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "56c02c1146fe2e2e5a9ceadb6dc3f31c",
@@ -2363,7 +2363,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "eab7983bbeb240713119b1b609e53e81",
@@ -2376,7 +2376,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "eb503181f8a313d18184c1af2e5f6fe7",
@@ -2389,7 +2389,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1c4eb25f65d344e28fbe567138c97cfa",
@@ -2402,7 +2402,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "864374ddb1bd7c3b017f03fef42b21e5",
@@ -2415,7 +2415,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f8f666845f66ee0d04ff1af8bbc1661d",
@@ -2428,7 +2428,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0c4cf5315dc21b883f16275231f2a294",
@@ -2441,7 +2441,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4be8fa8be648efd80c0e492fc7406562",
@@ -2454,7 +2454,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d9e797aa007c45245fdbb7b7e06f6872",
@@ -2467,7 +2467,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2e5149cadfe9ad70bd400f141850093f",
@@ -2480,7 +2480,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a3f69d61fcdb0756cb09286cb1e1557b",
@@ -2493,7 +2493,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b4ca31ca7f406d29d157349c149f41cf",
@@ -2506,7 +2506,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "83eb0de2ce21d5a1af470293309de9ab",
@@ -2519,7 +2519,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "623f775a4b4e72bce539ea378f7cfd18",
@@ -2532,7 +2532,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8a681a44bf26d52d49e2793fd1b1a636",
@@ -2545,7 +2545,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bd534b6e490b73f5c1e18d36a4f1aae8",
@@ -2558,7 +2558,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fa60762a47601c60a9bec4e3e9c71e11",
@@ -2571,7 +2571,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c3e4b092de3c37411462a785efc1597d",
@@ -2584,7 +2584,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "37e9dc767603c676033b3c3a633092fb",
@@ -2597,7 +2597,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2736e9d347002f9ba2d854e919f7ec9b",
@@ -2610,7 +2610,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a074d6e54717cf40a815ead82996d8fd",
@@ -2623,7 +2623,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "efca1bed7c681f9f2cb06b1519f3682d",
@@ -2636,7 +2636,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "db8570e5e1aa7e3c24b04891e672ca81",
@@ -2649,7 +2649,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b37ea10556bbc31232f99de03e8ebec4",
@@ -2662,7 +2662,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "85b448def9fcff088fe7b7c49ceb03c4",
@@ -2675,7 +2675,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "232433b22e564e6e9023d4ba503193fb",
@@ -2688,7 +2688,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e5205369634d5161d1c23cc8d57bd5ab",
@@ -2701,7 +2701,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1a3e6827d4ab013a52e66cceae992a4d",
@@ -2714,7 +2714,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5633acf2f7b56f7e79f8778e4704d3e4",
@@ -2727,7 +2727,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e4272e9b0b1d074f267d09acd40c0fa9",
@@ -2740,7 +2740,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "625db11cae1e9db588828dd43c56ec54",
@@ -2753,7 +2753,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1317163147895b9ab4197e00a8265f68",
@@ -2766,7 +2766,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "481d8fff75e90291c2a74da22c422d04",
@@ -2779,7 +2779,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b60792630d9d218bf9bf4822a79953a6",
@@ -2792,7 +2792,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4259375ae526d49efb68c2f6df4d6735",
@@ -2805,7 +2805,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "05c18a8ace7a9d697dd2da9e77c23b92",
@@ -2818,7 +2818,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9511c2e9577974ec07b1dd4e67a5df78",
@@ -2831,7 +2831,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0ea41cd3d2f97e56f663b4210a773fcb",
@@ -2844,7 +2844,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a3d3b1740b4634263ac8ff9095959c17",
@@ -2857,7 +2857,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "aca1e3d1855fdf9dedf5dbc33da6858f",
@@ -2870,7 +2870,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0d624955413c218a0417e26540cbe06d",
@@ -2883,7 +2883,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7cda74bdd1200b49a77a802ec3772f64",
@@ -2896,7 +2896,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "73493b839dba8174d59ae91601889743",
@@ -2909,7 +2909,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "34eea2c22b8e05703547a410bfcf69b4",
@@ -2922,7 +2922,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "42437c303da2de821f06b11703126710",
@@ -2935,7 +2935,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ade8b25c20c58c968456332a2a8bfd08",
@@ -2948,7 +2948,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "91c4848cc5a8d64e70809243a8e896bf",
@@ -2961,7 +2961,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6a33e342a1767e9876bb1c77c9e74656",
@@ -2974,7 +2974,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c79e2b1a03e7f9b8eec54c9be9ccdb80",
@@ -2987,7 +2987,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "daebe5396dddde92a3e7cbc6291896a4",
@@ -3000,7 +3000,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d2be855e1793b23d77025dc1f663d304",
@@ -3013,7 +3013,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "633a9d6f7ce094440c2efd76c4bf6618",
@@ -3026,7 +3026,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "27ad91a318c5475ba1e48e2ac18bbdb3",
@@ -3039,7 +3039,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9e7d22041011eb4600f9bec892dad11c",
@@ -3052,7 +3052,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "89a63b779c1ff8f1d8620c7e7a162a46",
@@ -3065,7 +3065,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "98449529ad00a5636af301a27e57d78f",
@@ -3078,7 +3078,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d39a08b534fdcfd1de76f7bcde9bc319",
@@ -3091,7 +3091,7 @@
     "level": "nmk",
     "chart_level": 0,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7eacfb64659eebb29701b72945ac8bbc",
@@ -3104,7 +3104,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "155b05330484c5a281bd980fd082250a",
@@ -3117,7 +3117,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "070d34b5763129fa03cb8e5825113f35",
@@ -3130,7 +3130,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "44f5ce6c6bba9c6ae58f0ce4d31b8c83",
@@ -3143,7 +3143,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "644e0f7c96f64b44bd1e99864bd7ba60",
@@ -3156,7 +3156,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bbef88ff8a5e225905596fd2c86d818c",
@@ -3169,7 +3169,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "035bef4f7765f90b711748402026549a",
@@ -3182,7 +3182,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "8385c93204c48a8739c0964613a02daa",
@@ -3195,7 +3195,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4151367c1e19f60b76b1b790b380f4c1",
@@ -3208,7 +3208,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9015d85064d5a071fb62991db42b7d9d",
@@ -3221,7 +3221,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "04bf9b1440d00a626611a1d5b1732c34",
@@ -3234,7 +3234,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1d6c319b8d11b08573fd3f9c4ae60319",
@@ -3247,7 +3247,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "37b65ea25bf7b62e44eaeac6e9bd739d",
@@ -3260,7 +3260,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7102a579bc4f5782242838a616026d0b",
@@ -3273,7 +3273,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a7f1522dd989cc4a85bef6360d079ebc",
@@ -3286,7 +3286,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7be42f910bf5bb165b0efc63fc1c938a",
@@ -3299,7 +3299,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ccdd2b59db12d9fff7edf2afd1ca4830",
@@ -3312,7 +3312,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0860fecbbba2ba8c85653448087f8d07",
@@ -3325,7 +3325,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9be822e3f99ccfb345a34f4c17b70ac3",
@@ -3338,7 +3338,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "73a71bc37c229e4f2e3e070bbff903c4",
@@ -3351,7 +3351,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9e6e56c1754717022e7419afa9a977c1",
@@ -3364,7 +3364,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "365202c66c09c77c8fa44076994c69e1",
@@ -3377,7 +3377,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "50466d38deeb5543d83e1263364485d5",
@@ -3390,7 +3390,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d8341212ce3c05755c8760d297cc74be",
@@ -3403,7 +3403,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0d3da840341b41de1956e42bc0107c56",
@@ -3416,7 +3416,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d7bf4ab4d6251063beb16e0338b3a4dd",
@@ -3429,7 +3429,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2a744c3af2298d011e17e60c0c480b1e",
@@ -3442,7 +3442,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e871cdb32868f7fb5985fcf60b84ef76",
@@ -3455,7 +3455,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3e59d7c4d9a11f32d3f9f15c8adfe558",
@@ -3468,7 +3468,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5d81be02a008ffd31d58d222bd4e3d8c",
@@ -3481,7 +3481,7 @@
     "level": "nmk",
     "chart_level": 14,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "57db391761cc5eed85481eb60607c6d5",
@@ -3494,7 +3494,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "cbbd414abfedc6fd24444e0aeb8c7787",
@@ -3507,7 +3507,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "49e06e77ec27947a9cebd9ad575d3927",
@@ -3520,7 +3520,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e845cb035ece5655907f77d6ec495fb6",
@@ -3533,7 +3533,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1d6e43faa9d44bdfface7373e54fe059",
@@ -3546,7 +3546,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1baf03b893db3b8d4a40e047d57a2b92",
@@ -3559,7 +3559,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "63f430edb3a23af483e52950ba1eaaa2",
@@ -3572,7 +3572,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ffccc268556342bd7970729c94d4494b",
@@ -3585,7 +3585,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6b6c91af8f9546ea8fcd65a6023ed0d5",
@@ -3598,7 +3598,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c524f3e631a0412cb14e190902da3388",
@@ -3611,7 +3611,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "addaab1643ebe145666cccac768d6c2c",
@@ -3624,7 +3624,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9f77f36850af8cbd81ae3d93378c2e08",
@@ -3637,7 +3637,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b81b0e4ed08d72363605484d51619707",
@@ -3650,7 +3650,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fd9aac049f6a01daabb98cfd83dc2e19",
@@ -3663,7 +3663,7 @@
     "level": "nmk",
     "chart_level": 25,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ea762844c8994f7591ed31830815acec",
@@ -3676,7 +3676,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6364416930b480dc8ac9a2f235e427c4",
@@ -3689,7 +3689,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c30af6acf0b841694baac02293de95d1",
@@ -3702,7 +3702,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "23a8fcfac7c3a1bd3653d7c5fe2f19fb",
@@ -3715,7 +3715,7 @@
     "level": "nmk",
     "chart_level": 13,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "3d14fc2508d0d550af1a46d6560690ab",
@@ -3728,7 +3728,7 @@
     "level": "nmk",
     "chart_level": 14,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "745c6a17c9903e39436db6393015bea6",
@@ -3741,7 +3741,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "17fefda5c3304ce272826526e8dfcfdf",
@@ -3754,7 +3754,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b850b61b60c3cee0e0fb92dbc3b88832",
@@ -3767,7 +3767,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7fb851db22b9f74b1aae3f9ec363bb3e",
@@ -3780,7 +3780,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "86c56fb3ef4eddbc1852dc39a24ff489",
@@ -3793,7 +3793,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0cb877ceb1fbb930e5e2f5b7e80893b8",
@@ -3806,7 +3806,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0fad07c6697aa10a05eb97946baeaab2",
@@ -3819,7 +3819,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fce4d5b337fefbc6af465ac115d9679b",
@@ -3832,7 +3832,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "998981dc5a30c6f81a4be28a592dbc94",
@@ -3845,7 +3845,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "51dc2bd81a1c8d4cd3458dfe4d2c2089",
@@ -3858,7 +3858,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d1ec4a73d6c1369dccc45b0eb49d3b0e",
@@ -3871,7 +3871,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e30f2672cb6c8d937d4c5ad80fb39883",
@@ -3884,7 +3884,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "45b0cc51d17774bf6aaf0585d7e568e4",
@@ -3897,7 +3897,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "21c07460e0884b2756ab1993d245faa3",
@@ -3910,7 +3910,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "19cf48e4b28ea36e99620a8d49f1a2eb",
@@ -3923,7 +3923,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "424005f834c17a46822230d934ab3ecc",
@@ -3936,7 +3936,7 @@
     "level": "nmk",
     "chart_level": 13,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f313cd7a4639094b7b3935bc3b155d98",
@@ -3949,7 +3949,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "31edf56177a76e0cbbbf97ae0d4e57e9",
@@ -3962,7 +3962,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ccf5b56eda218860ae8171045c3a35a7",
@@ -3975,7 +3975,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7936bc28defc90552f1b70fe007755b3",
@@ -3988,7 +3988,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7e14e7556a65be344539b7fd94d8ae4f",
@@ -4001,7 +4001,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "22aea40bda7f3aa1cb578f352c3bb65c",
@@ -4014,7 +4014,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2dbea18093752099ed1252a64d077697",
@@ -4027,7 +4027,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d94893489233986b33f2bfe2a10a92b4",
@@ -4040,7 +4040,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ac4a1de35b6cbf636227b68266cabc61",
@@ -4053,7 +4053,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4757c602cdc6a97ad90b0fde30ccf692",
@@ -4066,7 +4066,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ecd749856bfadee67fcea319066f9f8d",
@@ -4079,7 +4079,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "035d29e953ff4a4ffad076212ec35765",
@@ -4092,7 +4092,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f61d876bba1214b02fd1e32545ec1dd7",
@@ -4105,7 +4105,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a766c89e91856548cb6792f33722aee5",
@@ -4118,7 +4118,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fe6a342d13aaf40f3ae1b7a941533300",
@@ -4131,7 +4131,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "46da3141541d92632631a2e06694e06b",
@@ -4144,7 +4144,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b4f19d95c91faf4dd7c30b751d0bbd4c",
@@ -4157,7 +4157,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "214e387a56559d421d71d314f0f40bbe",
@@ -4170,7 +4170,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "cae283241da4082aa3c9559d1cf68dd4",
@@ -4183,7 +4183,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f94da6ff22f9ff5531ce88b823c16fac",
@@ -4196,7 +4196,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "329601cabd8ab8901198f22bc913f727",
@@ -4209,7 +4209,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ee368567e3f607c4edfa63db909f45ec",
@@ -4222,7 +4222,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f558a0d591f20aba9a4eb5a6a88c6a92",
@@ -4235,7 +4235,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "82bcee21f799689d5c4ee012703ed3e0",
@@ -4248,7 +4248,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1dcffe058fbd3c2536736f1464084d09",
@@ -4261,7 +4261,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ae17f9b8f50b7c73e3a571a237ab4580",
@@ -4274,7 +4274,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6f85478f3142a92cec059404bcb90990",
@@ -4287,7 +4287,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ce9b3fa9e110749188e698f252cfaa96",
@@ -4300,7 +4300,7 @@
     "level": "nmk",
     "chart_level": 0,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4022427196fc9fb8e547b78833ebd444",
@@ -4313,7 +4313,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e1dcd6b4ab63bfec65fd053d868911fe",
@@ -4326,7 +4326,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bf4319df1c7a8d2b1138bdf26d5bb350",
@@ -4339,7 +4339,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d3b2b38877a6d5b0033e65dd83c730fa",
@@ -4352,7 +4352,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f6f022817ce319bceb1c5ded841a3aa3",
@@ -4365,7 +4365,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fa58378cc228a171ca9452a9aa8b6355",
@@ -4378,7 +4378,7 @@
     "level": "nmk",
     "chart_level": 2,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "de409b758bd5ccbc1d9f03cb7dd8a9a4",
@@ -4391,7 +4391,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "f61747563d600d800d5d0641ed88d4ae",
@@ -4404,7 +4404,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "34bb1f2541d98ef103dc67f264e56adb",
@@ -4417,7 +4417,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "6779b53d4690706234e15d5a7a56c41b",
@@ -4430,7 +4430,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ac32b260ba63e398f36930c533514cbd",
@@ -4443,7 +4443,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1f577fbcc3f269b7315c96f8cae0c925",
@@ -4456,7 +4456,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0e08a0a14f1ed4e23d90019beea5b100",
@@ -4469,7 +4469,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2d35f32ee74faf4322b1da77f22f42f2",
@@ -4482,7 +4482,7 @@
     "level": "nmk",
     "chart_level": 5,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "0a0a529e24af58e55561df44f3ace4c2",
@@ -4495,7 +4495,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d9f20a7d05f284ffe66ca2d017444987",
@@ -4508,7 +4508,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "02cccc7fb1561ed3587abcda6111ea46",
@@ -4521,7 +4521,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9e63c9c520697db2f74c01423dd079e2",
@@ -4534,7 +4534,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4e9ac1bbdb4be238307b978a225b3068",
@@ -4547,7 +4547,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1528dc2ed5654dea82cc827b9e6996a5",
@@ -4560,7 +4560,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "bb515279fc2ca77157019a2cf1941241",
@@ -4573,7 +4573,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2fe3c40f1775a48a38d474b74e92f1dc",
@@ -4586,7 +4586,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7eb1123603d93535e4161556bb362dec",
@@ -4599,7 +4599,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "fd9ea03f6d4f9f09062c770bb0cf0843",
@@ -4612,7 +4612,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a399e95d4f6d8650473a8f5eca8c1e3c",
@@ -4625,7 +4625,7 @@
     "level": "nmk",
     "chart_level": 8,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "2a5d067b8acbb9704a3afa115cc00da3",
@@ -4638,7 +4638,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "754c4867898ad520dee7cd35796fd47c",
@@ -4651,7 +4651,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "5b3f516aafb390de00c0fce05bd5f24c",
@@ -4664,7 +4664,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "eee2f9f206644e393a0cae358b16a487",
@@ -4677,7 +4677,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a21acd65f224dd9b13e221e7659b1439",
@@ -4690,7 +4690,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "81cf0349c6639748f595dac0bb940bfa",
@@ -4703,7 +4703,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "37e70fe02796772924b492bddd2c9665",
@@ -4716,7 +4716,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "42c3bafac011d078332927ed0069bbcc",
@@ -4729,7 +4729,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4d62548faa6876f71c5757d183fc5eb5",
@@ -4742,7 +4742,7 @@
     "level": "nmk",
     "chart_level": 0,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e0b6ddd01d9c10d755692d1380a141a5",
@@ -4755,7 +4755,7 @@
     "level": "nmk",
     "chart_level": 12,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "ce508b2eb7af21633722259a007aacb9",
@@ -4768,7 +4768,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "9c547fde9f942b0e177c6c237d83cb0a",
@@ -4781,7 +4781,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e7d9db732fdd6a33a091aef9f228bbcf",
@@ -4794,7 +4794,7 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "4f24b7ffca9baf218b6daf3f5e363938",
@@ -4807,7 +4807,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 5,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "b41b2f7fb62137b65bb8153fe842890d",
@@ -4820,7 +4820,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "7b41033aa8519ddf84aebaefb3b62159",
@@ -4833,7 +4833,7 @@
     "level": "nmk",
     "chart_level": 3,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "d6efd85944a06fa324478ec6f5e7c819",
@@ -4846,7 +4846,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "e1eb776f92a20f023a221412950860c9",
@@ -4859,7 +4859,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "267c3f4254a5c4b871d3008e7a0f9df6",
@@ -4872,7 +4872,7 @@
     "level": "nmk",
     "chart_level": 6,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "385773ec5983656b9841eafa9d0c8186",
@@ -4885,7 +4885,7 @@
     "level": "nmk",
     "chart_level": 1,
     "chart_difficulty": 1,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "a6dcd7eb9751df5097c59c8077df2750",
@@ -4898,7 +4898,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "c2be854af79ad22d7bcd1079e81a1b3a",
@@ -4911,7 +4911,7 @@
     "level": "nmk",
     "chart_level": 9,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "1144d2f1107269723601358a85bf2d26",
@@ -4924,7 +4924,7 @@
     "level": "nmk",
     "chart_level": 11,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "828498d16ee98ee29e28959de35ae8ef",
@@ -4937,7 +4937,7 @@
     "level": "nmk",
     "chart_level": 4,
     "chart_difficulty": 2,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "43b3251de210ee2732ec7e852e6a3be4",
@@ -4950,7 +4950,7 @@
     "level": "nmk",
     "chart_level": 7,
     "chart_difficulty": 3,
-    "mode": 7
+    "mode": "7"
   },
   {
     "md5": "dda05ffa09c57031facacca1b4072227",
@@ -4963,6 +4963,6 @@
     "level": "nmk",
     "chart_level": 10,
     "chart_difficulty": 4,
-    "mode": 7
+    "mode": "7"
   }
 ]
