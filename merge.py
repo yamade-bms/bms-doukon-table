@@ -9,6 +9,8 @@ if current_dir != script_dir:
 config_list = [
     ('nmk.json', 'nmk'),
     ('sakamiya.json', 'Sakamiya'),
+    ('aliesrite.json', 'Aliesrite*'),
+    ('juka_box.json', 'Juka_Box'),
 ]
 
 data = []

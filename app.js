@@ -56,7 +56,11 @@ function renderLevelRows(level) {
             "<td class='text-center'>" + chartLevel + "</td>" +
             "<td><a href='https://bms-ir.org/new/song?songmd5=" + item.md5 + "' target='_blank'>" + item.title + subtitle + "</a></td>" +
             "<td>" + item.artist + subartist + "</td>" +
-            "<td class='text-center'><a href='http://mocha-repository.info/song.php?sha256=" + item.sha256 + "' target='_blank'><i class='bi bi-box-arrow-up-right'></i></a></td>" +
+            `<td class='text-center'>
+              ${item.sha256 
+                ? `<a href='https://mocha-repository.info/song.php?sha256=${item.sha256}' target='_blank'><i class='bi bi-box-arrow-up-right'></i></a>` 
+                : '-'}
+            </td>` +
             "<td>" + item.comment + "</td>" +
             "</tr>"
         );
