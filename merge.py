@@ -11,6 +11,7 @@ config_list = [
     ('sakamiya.json', 'Sakamiya'),
     ('aliesrite.json', 'Aliesrite*'),
     ('juka_box.json', 'Juka_Box'),
+    ('atily.json', 'atily'),
 ]
 
 data = []
