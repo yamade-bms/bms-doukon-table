@@ -546,6 +546,58 @@
     "mode": "beat-7k"
   },
   {
+    "md5": "643e93c8191c43edbfc7a2e5abd2d0d7",
+    "sha256": "b60a7dfe80f79d0ebf620671dbd3c8c54df11e3aa58698812faad513b9887b60",
+    "title": "BlindClock",
+    "subtitle": "[Beginner]",
+    "artist": "RTC",
+    "subartist": "",
+    "comment": "",
+    "level": "atily",
+    "chart_level": 4,
+    "chart_difficulty": 1,
+    "mode": "beat-7k"
+  },
+  {
+    "md5": "bb9622fa0d1acef4c5a54d58197828bc",
+    "sha256": "565c8d63b21930c5c44adc9648e14f917074b61e65bfa5ee1e68ab5a722163c6",
+    "title": "BlindClock",
+    "subtitle": "[Another]",
+    "artist": "RTC",
+    "subartist": "",
+    "comment": "",
+    "level": "atily",
+    "chart_level": 11,
+    "chart_difficulty": 4,
+    "mode": "beat-7k"
+  },
+  {
+    "md5": "c0b429fd3d3038b62387bb8aa6464678",
+    "sha256": "9934cd55b214a99ac0beb05cbea4bd01ff7db46593bf65ff44a5790b7ad1a7bd",
+    "title": "BlindClock",
+    "subtitle": "[Normal]",
+    "artist": "RTC",
+    "subartist": "",
+    "comment": "",
+    "level": "atily",
+    "chart_level": 7,
+    "chart_difficulty": 2,
+    "mode": "beat-7k"
+  },
+  {
+    "md5": "c1e185bb6c86c12cf0c61b36e6646271",
+    "sha256": "1467d0423b6ec0e95a5c318ca637ef61f5c8a0befdae36957ad5f640400d2141",
+    "title": "BlindClock",
+    "subtitle": "[Hyper]",
+    "artist": "RTC",
+    "subartist": "",
+    "comment": "",
+    "level": "atily",
+    "chart_level": 10,
+    "chart_difficulty": 3,
+    "mode": "beat-7k"
+  },
+  {
     "md5": "77338b5e285317cc20308b0f87814217",
     "sha256": "a1a7e87dde39813f0dd81c69ce2d69445c45472bdb58c1e4eefa380c80f2f074",
     "title": "StarLightning!!",
